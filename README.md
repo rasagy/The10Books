@@ -1,7 +1,7 @@
-The10Books
-==========
+The 10 Books
+============
 
-A compilation of books my friends have recommended in the 10 Books challenge (via Fb).
+_A compilation of books my friends have recommended in the 10 Books challenge (via Fb)._
 
 PS: Feel free to add on if I've missed your name / mail or message me with your list. :)
 
