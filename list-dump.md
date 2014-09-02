@@ -1,72 +1,84 @@
 ###Aarthi M Sundaram
-Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
-The Hungry Tide (Amitav Ghosh)
-Two Lives (Vikram Seth)
-The Calcutta Chromosome (Amitav Ghosh)
-Malgudi Days (R. K. Narayan)
-The Brothers Karamazov (Fyodor Dostoyevsky)
-Anne of Avonlea (Lucy Maud Montgomery)
-Ghar Bhaire or 'Home and the World' (Rabindranath Tagore)
-The Innocent Man (John Grisham)
-Silmarillon (J R R Tolkien)
+1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
+2. The Hungry Tide (Amitav Ghosh)
+3. Two Lives (Vikram Seth)
+4. The Calcutta Chromosome (Amitav Ghosh)
+5. Malgudi Days (R. K. Narayan)
+6. The Brothers Karamazov (Fyodor Dostoyevsky)
+7. Anne of Avonlea (Lucy Maud Montgomery)
+8. Ghar Bhaire or 'Home and the World' (Rabindranath Tagore)
+9. The Innocent Man (John Grisham)
+10. Silmarillon (J R R Tolkien)
 
 ###Abhijeet Sathe
-1984 - George Orwell
-Robinson Crusoe - Daniel Defoe
-Deadhouse Gates - Steven Erikson
-The Fellowship of the Ring - JRR Tolkien
-Harry Potter and the Philosopher's Stone - JK Rowling
-Love in the time of Cholera - Gabriel Garcia Marquez
-Em and the Big Hoom - Jerry Pinto
-Guards! Guards! - Terry Pratchett
-Moby Dick - Herman Melville
-Foundation - Isaac Asimov
-V for Vendetta (it counts) - Alan Moore
-If on a winter's night, a traveler - Italo Calvino
-American Gods - Neil Gaiman
-Hitchhikers Guide to the Galaxy - Souk m Douglas Adams
-Sea of Poppies - Amitav Ghosh
-Metamorphosis - Franz Kafka
-Perdido Street Station - China Mieville
-Catch 22 - Joseph Heller
-Do Androids Dream of Electric Sheep - Philip K Dick
-Malgudi Days - R K Narayan
-The Adventures of Tom Sawyer - Mark Twain
+1. 1984 - George Orwell
+2. Robinson Crusoe - Daniel Defoe
+3. Deadhouse Gates - Steven Erikson
+4. The Fellowship of the Ring - JRR Tolkien
+5. Harry Potter and the Philosopher's Stone - JK Rowling
+6. Love in the time of Cholera - Gabriel Garcia Marquez
+7. Em and the Big Hoom - Jerry Pinto
+8. Guards! Guards! - Terry Pratchett
+9. Moby Dick - Herman Melville
+10. Foundation - Isaac Asimov
+11. V for Vendetta (it counts) - Alan Moore
+12. If on a winter's night, a traveler - Italo Calvino
+13. American Gods - Neil Gaiman
+14. Hitchhikers Guide to the Galaxy - Souk m Douglas Adams
+15. Sea of Poppies - Amitav Ghosh
+16. Metamorphosis - Franz Kafka
+17. Perdido Street Station - China Mieville
+18. Catch 22 - Joseph Heller
+19. Do Androids Dream of Electric Sheep - Philip K Dick
+20. Malgudi Days - R K Narayan
+21. The Adventures of Tom Sawyer - Mark Twain
 
 ###Abhinav Malhotra
-(1) Diary of a young girl - Anne Frank 
-(2) Banker to the Poor - Yunus 
-(3) Love Story - Erich Segal 
-(4) The Alchemist - Coelho 
-(5) Practical Vedanta - Swami Vivekananda 
-(6) Without Fear: The Life & Trial of Bhagat Singh - Kuldeep Nayyar
-(7) Patriots and Partisans - Ramachandra Guha
-(8) Goosebumps - R.L. Stine 
-(9) Meera (in Hindi) - from Ramakrishna mission
-(10) The Picture of Dorian Gray - Oscar Wilde
+1. Diary of a young girl - Anne Frank 
+2. Banker to the Poor - Yunus 
+3. Love Story - Erich Segal 
+4. The Alchemist - Coelho 
+5. Practical Vedanta - Swami Vivekananda 
+6. Without Fear: The Life & Trial of Bhagat Singh - Kuldeep Nayyar
+7. Patriots and Partisans - Ramachandra Guha
+8. Goosebumps - R.L. Stine 
+9. Meera in Hindi. - from Ramakrishna mission
+10. The Picture of Dorian Gray - Oscar Wilde
+
+###Akshatha N Hegde
+1. The Famous Five series - I spent half my childhood with it and it reminds me of the other half.
+2. Harry Potter series - For giving me a second life in another world.
+3. Chicken Soup for the Soul collection - For so effortlessly bringing strangers close to my heart and inspiring me to think sociologically.
+4. Tuesdays with Morrie - Read it if you haven't already, please. You will know why.
+5. A Thousand Splendid Suns - Because I cannot forget how much it moved me.
+6. Delirious New York - For all its for's and Rem Koolhas.
+7. The Twilight Series - For showing me what kind of books are definite no-no's (despite having fun characters like Jacob) for me to write in the future.
+8. Memoirs of a Geisha - Because all our worlds need books that describe them to other worlds like this book does Japan and the world of Geisha.
+9. The Da Vinci Code - For sensitizing me to patterns, cryptics and typography, even. 
+10. Sense and Sensibility/ Pride and Prejudice (Just. Cannot. Pick. One) - For giving me Mr. Darcy, for the love of the stories of Medieval England and for love.
 
 ###Amit Das
-1) Rework - Jason Fried
-2) Don't make me think - Steve Krug
-3) God explained in a taxi ride - Paul Arden
-4) Founders at work - Jessica Livingston
-5) The accidental billionaires - Ben Mezrich
-6) Persepolis - Marjane Satrapi
-7) Understanding comics - Scott McCloud
-8) Steal this computer book - Wallace Wang
-9) Freakonomics - Steven Levitt, Stephen Dubner
-10) Liespotting - Pamela Meyer
+1. Rework - Jason Fried
+2. Don't make me think - Steve Krug
+3. God explained in a taxi ride - Paul Arden
+4. Founders at work - Jessica Livingston
+5. The accidental billionaires - Ben Mezrich
+6. Persepolis - Marjane Satrapi
+7. Understanding comics - Scott McCloud
+8. Steal this computer book - Wallace Wang
+9. Freakonomics - Steven Levitt, Stephen Dubner
+10. Liespotting - Pamela Meyer
 
 ###Anmol Sharma
-Bhagvad Gita As it is
-Tao of Physics - Fritjof Capra
-Godel, Escher, Bach - Douglas Hofstader
-Beyond Good and Evil/Thus spoke Zarathustra - Friedrich Nietzsche
-Autobiography of a spiritually incorrect mystic/From sex to superconsciousness/The book of secrets - Osho
-Animal Spirits - George Akerlof and Robert Shiller
-Market Wizards series - Jack Schwager
-Fooled by Randomness - Nassim Nicholas Taleb
-The Invisible Hands/Inside the house of Money - Steven Drobny
+1. Bhagvad Gita As it is
+2. Tao of Physics - Fritjof Capra
+3. Godel, Escher, Bach - Douglas Hofstader
+4. Beyond Good and Evil/Thus spoke Zarathustra - Friedrich Nietzsche
+5. Autobiography of a spiritually incorrect mystic/From sex to superconsciousness/The book of secrets - Osho
+6. Animal Spirits - George Akerlof and Robert Shiller
+7. Market Wizards series - Jack Schwager
+8. Fooled by Randomness - Nassim Nicholas Taleb
+9. The Invisible Hands/Inside the house of Money - Steven Drobny
 
 ###Debanjan Basu
 1. Making History -Stephen Fry
@@ -130,76 +142,76 @@ Disha Gujar
 11. Harry Potter Series - J.K. Rowling
 
 ###Himadree Kaushik
-1) Shalimar the Clown by Salman Rushdie
-2) The Stranger by Alber Camus
-3) An Autobiography (Toward Freedom) by Jawaharlal Nehru
-4) Guards! Guards! by Terry Pratchett 
-5) Down and Out in Paris and London by Orwell
-6) Stiff Upper, Jeeves by P.G. Wodehouse
-7) The Fountainhead by Ayn Rand 
-8) Catcher in the Rye by Salinger
-9) India After Gandhi by Ramchandra Guha
-10) Vaishali Ki Nagar Vadhu by Acharya Chatursen (Hindi)
+1. Shalimar the Clown by Salman Rushdie
+2. The Stranger by Alber Camus
+3. An Autobiography (Toward Freedom. by Jawaharlal Nehru
+4. Guards! Guards! by Terry Pratchett 
+5. Down and Out in Paris and London by Orwell
+6. Stiff Upper, Jeeves by P.G. Wodehouse
+7. The Fountainhead by Ayn Rand 
+8. Catcher in the Rye by Salinger
+9. India After Gandhi by Ramchandra Guha
+10. Vaishali Ki Nagar Vadhu by Acharya Chatursen (Hindi.
 
 ###Kenneth Mark Dsouza
-Batman: The Killing Joke
-The Kite Runner
-Samit Basu's Gameworld Trilogy
-Craig Thompson graphic novelist's Blankets
-The Hitchhiker's Guide to the Galaxy
-Leo 's Aldebaran (comics) series.
-William Gibson's Neuromancer
-The Enchanted Wood
-Kuzhali Manickavel's Insects Are Just Like You and Me Except Some of Them Have Wings
-The Little Prince Official
+1. Batman: The Killing Joke
+2. The Kite Runner
+3. Samit Basu's Gameworld Trilogy
+4. Craig Thompson graphic novelist's Blankets
+5. The Hitchhiker's Guide to the Galaxy
+6. Leo 's Aldebaran (comics) series.
+7. William Gibson's Neuromancer
+8. The Enchanted Wood
+9. Kuzhali Manickavel's Insects Are Just Like You and Me Except Some of Them Have Wings
+10. The Little Prince Official
 
 ###Kingsley Joseph
-* Dune
-* Hitchhiker's Guide to the Galaxy
-* Godel, Escher, Bach
-* The Prince by Machiavelli
-* Animal Farm
-* Ponniyin Selvan
-* My Experiments with Truth
-* The Mahabharata
-* Nightfall
-* The Fortune at the Bottom of the Pyramid
+1. Dune
+2. Hitchhiker's Guide to the Galaxy
+3. Godel, Escher, Bach
+4. The Prince by Machiavelli
+5. Animal Farm
+6. Ponniyin Selvan
+7. My Experiments with Truth
+8. The Mahabharata
+9. Nightfall
+10. The Fortune at the Bottom of the Pyramid
 
 ###Kinshuk Kar
-Lean Startup
-Who moved my Cheese
-Art of Thinking Clearly
-Shiv Purana
-Tipping point
-Wings of Fire
-Breakout Nations
-Outliers
-Steve Jobs - Biography
-Why we Buy.
+1. Lean Startup
+2. Who moved my Cheese
+3. Art of Thinking Clearly
+4. Shiv Purana
+5. Tipping point
+6. Wings of Fire
+7. Breakout Nations
+8. Outliers
+9. Steve Jobs - Biography
+10. Why we Buy
 
 ###Kriti Arora
-1.) Fountainhead - Ayn Rand
-2.) 1984 - George Orwell
-3.) The Firm - John Grisham
-4.) Kane and Abel; The Prodigal Daughter; Not a penny less, not a penny more - Jeffrey Archer
-5.) Shantaram - Gregory David Roberts
-6.) The Hitchhiker's Guide to the Galaxy - Douglas Adams
-7.) Wuthering Heights - Emily Brontë
-8.) Midnight's Children - Salman Rushdie
-9.) To Kill a Mockingbird - Harper Lee
-10.) A woman of substance - Barbara Taylor Bradford
+1. Fountainhead - Ayn Rand
+2. 1984 - George Orwell
+3. The Firm - John Grisham
+4. Kane and Abel; The Prodigal Daughter; Not a penny less, not a penny more - Jeffrey Archer
+5. Shantaram - Gregory David Roberts
+6. The Hitchhiker's Guide to the Galaxy - Douglas Adams
+7. Wuthering Heights - Emily Brontë
+8. Midnight's Children - Salman Rushdie
+9. To Kill a Mockingbird - Harper Lee
+10. A woman of substance - Barbara Taylor Bradford
 
 ###Kriti Bajaj
-The Prophet
-Pride and prejudice
-Slaughterhouse - Five
-Waiting for Godot
-Anne of the Island
-Mocking Jay
-Animal Farm
-The perks of being a wallflower
-So Long, and thanks for all the fish
-Harry Potter and the Order of the Phoenix
+1. The Prophet
+2. Pride and prejudice
+3. Slaughterhouse - Five
+4. Waiting for Godot
+5. Anne of the Island
+6. Mocking Jay
+7. Animal Farm
+8. The perks of being a wallflower
+9. So Long, and thanks for all the fish
+10. Harry Potter and the Order of the Phoenix
 
 ###Kruttika Susarla
 1. Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams 
@@ -214,43 +226,43 @@ Harry Potter and the Order of the Phoenix
 10. Let me take you down by Jack Jones(which lead me to the Catcher In The Rye)( refer to http://www.amazon.com/Let-Me-Take-You-Down/dp/0812991702)
 
 ###Maddie Thirupathy
-Anne of Green Gables
-Little Women
-Harry Potter and the Deathly Hallows 
-To Kill a Mockingbird
-The Stranger 
-Choke 
-The Gambler 
-Critique of Pure Reason
-The Romantic Manifesto
-Kane and Abel
-Hitchhiker's Guide To The Galaxy
-Flatland
+1. Anne of Green Gables
+2. Little Women
+3. Harry Potter and the Deathly Hallows 
+4. To Kill a Mockingbird
+5. The Stranger 
+6. Choke 
+7. The Gambler 
+8. Critique of Pure Reason
+9. The Romantic Manifesto
+10. Kane and Abel
+11. Hitchhiker's Guide To The Galaxy
+12. Flatland
 
 ###Manasee Narvilkar
-Harry Potter and the Philosopher's Stone - J.K. Rowling
-Mister God, This Is Anna - Fynn 
-The Murder of Roger Ackroyd - Agatha Christie
-The 7 Habits of Highly Effective Teens - Sean Covey
-Games People Play - Eric Berne
-Mrityunjaya - Shivaji Sawant
-Gone with the Wind - Margaret Mitchell
-The Foundation Triology - Isaac Asimov
-Little Women - Louisa May Alcott
-Animal Farm - George Orwell
-Hitchhikers Guide to the Galaxy - Douglas Adams
+1. Harry Potter and the Philosopher's Stone - J.K. Rowling
+2. Mister God, This Is Anna - Fynn 
+3. The Murder of Roger Ackroyd - Agatha Christie
+4. The 7 Habits of Highly Effective Teens - Sean Covey
+5. Games People Play - Eric Berne
+6. Mrityunjaya - Shivaji Sawant
+7. Gone with the Wind - Margaret Mitchell
+8. The Foundation Triology - Isaac Asimov
+9. Little Women - Louisa May Alcott
+10. Animal Farm - George Orwell
+11. Hitchhikers Guide to the Galaxy - Douglas Adams
 
 ###Nambirajan Vanamamalai
-Maus by Art Spiegelman
-Alice in Sunderland by Bryan Talbot
-Persepolis by Marjane Satrapi
-India After Gandhi by Ramachandra Guha
-Information is Beautiful by David Mccandleless
-Understanding Comics by Scott Mccloud
-Harry Potter and the Sorcerer's Stone by JK Rowling
-Down Under by Bill Bryson
-Design of Everyday Things by Don Norman
-Games People Play by Eric Berne
+1. Maus by Art Spiegelman
+2. Alice in Sunderland by Bryan Talbot
+3. Persepolis by Marjane Satrapi
+4. India After Gandhi by Ramachandra Guha
+5. Information is Beautiful by David Mccandleless
+6. Understanding Comics by Scott Mccloud
+7. Harry Potter and the Sorcerer's Stone by JK Rowling
+8. Down Under by Bill Bryson
+9. Design of Everyday Things by Don Norman
+10. Games People Play by Eric Berne
 
 ###Nidhi Srivastava
 1. Famous Five go to Smuggler's Top or the first (but last in the series) FF that I read, Famous Five are Together Again, by Enid Blyton
@@ -282,40 +294,39 @@ Games People Play by Eric Berne
 10. Godan - Premchand
 
 ###Prabhashish Singh
-Love at the time of cholera- Gabriel Garcia
-Catcher in the rhy- JD Salinger
-7 habits of highly effective people- Stephen covey
-A thousand splendid suns- khaled hosseini
-The art of choice- sheena iyengar
-History of the Sikhs- khushwant singh
-The guide- rk narayan
-I miss my pencil- kara Johnson/ martin bone
-love at the time of cholera- gabriel garcia
+1. Love at the time of cholera- Gabriel Garcia
+2. Catcher in the rye- JD Salinger
+3. 7 habits of highly effective people- Stephen covey
+4. A thousand splendid suns- khaled hosseini
+5. The art of choice- sheena iyengar
+6. History of the Sikhs- khushwant singh
+7. The guide- rk narayan
+8. I miss my pencil- kara Johnson/ martin bone
 
 ###Prashant Nagpal
-Victor Hugo - Les Miserables
-Jack Kerouac - On the Road
-JD Salinger - Catcher in the Rye
-George Orwell - 1984
-Milan Kundera - The Unbearable Lightness of Being
-Hunter S. Thompson - The Rum Diaries
-F. Scott Fitzgerald - The Great Gatsby
-Fyodr Dostoevsky - Notes From The Underground
-P.G. Wodehouse - Life at Blandings
-Douglas Adams - The Hitchhiker's Guide To The Galaxy
-Notable Mentions:
-Timothy Leary - Turn On, Tune In, Drop Out
-Ruskin Bond - The Adventures of Rusty; Time Stops at Shamli
-P.G. Wodehouse - Everything he has ever written
-Hunter S. Thompson - Fear & Loathing in Las Vegas; Generation of Swine
-Voltaire - Candide
-W. Somerset Maugham - Of Human Bondage
-William Golding - Lord of the Flies
-Abbie Hoffman - Steal This Book
-Kurt Vonnegut - Slaughterhouse Five
-Shashi Tharoor - The Great Indian Novel
-JRR Tolkien - The Lord of the Rings; The Silmarillion
-Aldous Huxley - Brave New World
+1. Victor Hugo - Les Miserables
+2. Jack Kerouac - On the Road
+3. JD Salinger - Catcher in the Rye
+4. George Orwell - 1984
+5. Milan Kundera - The Unbearable Lightness of Being
+6. Hunter S. Thompson - The Rum Diaries
+7. F. Scott Fitzgerald - The Great Gatsby
+8. Fyodr Dostoevsky - Notes From The Underground
+9. P.G. Wodehouse - Life at Blandings
+10. Douglas Adams - The Hitchhiker's Guide To The Galaxy
+11. Notable Mentions:
+12. Timothy Leary - Turn On, Tune In, Drop Out
+13. Ruskin Bond - The Adventures of Rusty; Time Stops at Shamli
+14. P.G. Wodehouse - Everything he has ever written
+15. Hunter S. Thompson - Fear & Loathing in Las Vegas; Generation of Swine
+16. Voltaire - Candide
+17. W. Somerset Maugham - Of Human Bondage
+18. William Golding - Lord of the Flies
+19. Abbie Hoffman - Steal This Book
+20. Kurt Vonnegut - Slaughterhouse Five
+21. Shashi Tharoor - The Great Indian Novel
+22. JRR Tolkien - The Lord of the Rings; The Silmarillion
+23. Aldous Huxley - Brave New World
 
 ###Prithvi Kolaparthy
 1. Atlas shrugged - Ayn Rand
@@ -401,16 +412,16 @@ Calvin & Hobbes, Bill Watterson
 10. The Harry Potter series, by J K Rowling.
 
 ###Sanchit Mahajan
-1) Chacha Chaudhary and all works of Pran! Which started my journey!
-2) Archies comics
-3) Secret Seven- complete series!
-4) Agatha Christie- All Hercule Poirot mystries! thanks to Shailee who told me about this in class 6th I think. 
-5) All Jeffery Archer novels (except short stories) my companion during school years. Hard to choose one. 
-6) Harry Potter series (4th one being my fav). One book I read completely on my N72 in a few days!
-7) Freakonomics
-8) Dan Brown - Da Vinci Code and Angels and Demons. 
-9) An Intimate Note to the Sincere Seeker - Sri Sri Ravishankar. Constant companion. 
-10) Sputnik Sweetheart - Murakami.
+1. Chacha Chaudhary and all works of Pran! Which started my journey!
+2. Archies comics
+3. Secret Seven- complete series!
+4. Agatha Christie- All Hercule Poirot mystries! thanks to Shailee who told me about this in class 6th I think. 
+5. All Jeffery Archer novels (except short stories. my companion during school years. Hard to choose one. 
+6. Harry Potter series (4th one being my fav.. One book I read completely on my N72 in a few days!
+7. Freakonomics
+8. Dan Brown - Da Vinci Code and Angels and Demons. 
+9. An Intimate Note to the Sincere Seeker - Sri Sri Ravishankar. Constant companion. 
+10. Sputnik Sweetheart - Murakami.
 
 ###Sanket Gupta
 1. A New Earth by Eckhart Tolle
@@ -461,26 +472,26 @@ Calvin & Hobbes, Bill Watterson
 10. Harry Potter and the Prisoner of Azkaban - J. K. Rowling
 
 ###Shubhadeep Bhattacharjee
-1) Autobiography of a Yogi - Paramhansa Yogananda 
-2) Siddhartha - Herman Hesse 
-3) The Quintessential Rumi - Molwana Rumi (also can add Shams Tabrizi) as interpreted by Coleman Barks, i think. 
-4) The Prophet, The Madman , The Wanderer (3 separate collections) - Khalil Gibran - By the author himself in English. 
-5) Selected Poems - Thomas Transtormer translated, i think by Bob Fulton. 
-6) Godaan - Munshi Premchand. 
-7) Geetanjali - Rabindranath Thakur. 
-8) Mahabhartha - C Rajagoplachari. 
-9) Pather Panchali - Bibhutibhushan Bandhopadhyay. 
-10) The Art of Electronics - Horowitz-Hall. 
-11) QED - The Nature of light and matter, Lectures in Caltech- Richard P Feynman. 
-12) The Power of Now/New Earth - Eckhart Tolle. 
-13) The Mother- Maxi Gorkhy. 
-14) Short stories by - O. Henry/ Andre Guy de Mauppasaunt etc. 
-15) Blink/ What the Dog Saw - Malcolm Gladwell. 
-16) Complete Calvin and Hobbes - Bill Watterson. 
-17) Lateral Thinking – Edward D Bono. 
-18) Classics: Oliver Twist/Great Expectations/Tail of two cities (Charles Dickens), Huckleberry Finn/Tom Swayer (Mark Twain), Moby Dick (Herman Meville), 3 Musketeers (Alex Dumas) , Sherlock Holmes (Conan Doyle), LOTR (JRR Tolkein) 
-19) Adventures of Tintin – Herge. 
-20) Godel Esher Bach – Doug Hofstader – Incomplete reading, may never finish.
+1. Autobiography of a Yogi - Paramhansa Yogananda 
+2. Siddhartha - Herman Hesse 
+3. The Quintessential Rumi - Molwana Rumi (also can add Shams Tabrizi) as interpreted by Coleman Barks, i think. 
+4. The Prophet, The Madman , The Wanderer (3 separate collections) - Khalil Gibran - By the author himself in English. 
+5. Selected Poems - Thomas Transtormer translated, i think by Bob Fulton. 
+6. Godaan - Munshi Premchand. 
+7. Geetanjali - Rabindranath Thakur. 
+8. Mahabhartha - C Rajagoplachari. 
+9. Pather Panchali - Bibhutibhushan Bandhopadhyay. 
+10. The Art of Electronics - Horowitz-Hall. 
+11. QED - The Nature of light and matter, Lectures in Caltech- Richard P Feynman. 
+12. The Power of Now/New Earth - Eckhart Tolle. 
+13. The Mother- Maxi Gorkhy. 
+14. Short stories by - O. Henry/ Andre Guy de Mauppasaunt etc. 
+15. Blink/ What the Dog Saw - Malcolm Gladwell. 
+16. Complete Calvin and Hobbes - Bill Watterson. 
+17. Lateral Thinking – Edward D Bono. 
+18. Classics: Oliver Twist/Great Expectations/Tail of two cities (Charles Dickens), Huckleberry Finn/Tom Swayer (Mark Twain), Moby Dick (Herman Meville), 3 Musketeers (Alex Dumas) , Sherlock Holmes (Conan Doyle), LOTR (JRR Tolkein) 
+19. Adventures of Tintin – Herge. 
+20. Godel Esher Bach – Doug Hofstader – Incomplete reading, may never finish.
 
 ###Supreeth Srinivasamurthy
 1. Ruskin Bond: Collected Fiction 
@@ -525,17 +536,30 @@ This sparked my enthusiasm for travel like no other book had up until then. Thou
 Into Thin Air - John Krakauer
 In stark contrast to Video nights this book showcases the other side of travel adventure by chronicling the journey of arguably the worst mountaineering disaster in history. Chilling and inspiring at the same time.
 
+###Surabhi Bhatnagar
+1. The folks of the faraway tree - Enid Blyton
+2. A Short History of Nearly Everything -Bill Bryson 
+3. Deception Point, Da Vinci Code - Dan Brown
+4. Harry Potter series - Prisoner of Azkaban, especially
+5. Eleven minutes - Paolo Coelho
+6. The Quran(abridged)
+7. The Art of Choosing - Sheena Iyengar
+8. The design of everyday things - Don Norman
+9. Jonathon Livingston Seagull - Richard Bach
+10. The medium is the message - Marshall McLuhan
+11. Metaphors we live by - George Lakoff and Mark Johnson
+
 ###Suramya Munshi
 1. Siddhartha by Herman Hesse
-2.The Outsider by Albert Camus 
-3.A Space Odyssey by Arthur Clarke 
-4.Into the Wild by Jon Krakauer
-5.The Lovely Bones by Alice Sebold
-6.Anthem by Ayn Rand
-7.Crime and Punishment by Fyodor Dostoyevsky
-8.The Great Gatsby by F. Scott Fitzgerald 
-9.Walden and Civil Disobedience by Henry David Thoreau
-10.Waiting for the Mahatma by RK Narayan 
+2. The Outsider by Albert Camus 
+3. A Space Odyssey by Arthur Clarke 
+4. Into the Wild by Jon Krakauer
+5. The Lovely Bones by Alice Sebold
+6. Anthem by Ayn Rand
+7. Crime and Punishment by Fyodor Dostoyevsky
+8. The Great Gatsby by F.  Scott Fitzgerald 
+9. Walden and Civil Disobedience by Henry David Thoreau
+10. Waiting for the Mahatma by RK Narayan 
 
 ###Swagat Yadav
 1. Inspite of the Gods - Edward Luce
