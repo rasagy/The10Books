@@ -1,3 +1,5 @@
+_Count: #50_
+
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
 2. The Hungry Tide (Amitav Ghosh)
@@ -80,6 +82,30 @@
 8. Fooled by Randomness - Nassim Nicholas Taleb
 9. The Invisible Hands/Inside the house of Money - Steven Drobny
 
+###Anumeha Mittal
+1. Harry Potter Series by J.K. Rowling
+2. Enid Blyton books - The Famous Five, Five Find-Outers
+3. A Song of Ice and Fire series by George R.R. Martin
+4. Roald Dahl books - Matilda, Charlie and the Chocolate Factory
+5. The Lord of The Rings Series by J.R.R. Tolkien
+6. Love Story by Erich Segal
+7. Great Expectations by Charles Dickens
+8. Pride and Prejudice by Jane Austen
+9. Afghan by Frederick Forsyth
+10. Not a Penny More, Not a Penny Less by Jeffery Archer
+
+###Chaitanya Czajtania
+1. The pleasure of finding things out (and works. - Richard Feynman
+2. "She walks in Beauty" - Lord Byron (and works. 
+3. "...'Am I the right person to do it?’ will always be ineffective himself and a discouragement to others..." - A Mathematician's Apology - G H Hardy
+4. “And that's the thing about people who mean everything they say. They think everyone else does too.” - Khaled Hosseini, The Kite Runner.
+5. "The world bores you when you're cool" - Bill Watterson, Calvin and Hobbes.
+6. "Inject a few raisins of conversation into the tasteless dough of existence” - O Henry, Complete works
+7. The adventures of Tom Sawyer - Mark Twain. (and works.
+8. "If you forget me" - Pablo Neruda. (and works.
+9. A Penny Saved is Impossible - Ogden Nash (and works.
+10. The man who mistook his wife for a hat - Oliver Sacks (and works. and Phantoms in the brain - V.S. Ramachandran 
+
 ###Debanjan Basu
 1. Making History -Stephen Fry
 2. V for vendetta -Alan Moore and David Lloyd
@@ -104,7 +130,7 @@
 9. Lord of the flies - William Golding
 10. The night train at Deoli and other stories - Ruskin Bond
 
-Disha Gujar
+###Disha Gujar
 1. Little Women - Louisa May Alcott
 2. Heidi - Johanna Sypri
 3. Oliver Twist - Charles Dickens
@@ -152,6 +178,42 @@ Disha Gujar
 8. Catcher in the Rye by Salinger
 9. India After Gandhi by Ramchandra Guha
 10. Vaishali Ki Nagar Vadhu by Acharya Chatursen (Hindi.
+
+###Himanshu Bhandoh
+1. The Fountainhead by Ayn Rand- for permanently changing the way I view the world, and making me a wannabe Toohey (definitely for the worse..
+2. The Foundation series - Isaac Asimov's magnum opus, and arguably the greatest sci-fi series ever written.
+3. Siddhartha by Hermann Hesse - wonderfully deep. Made me read so many of Hesse's other books.
+4. 2001 A Space Odyssey - Sci-fi poetry by Arthur C. Clarke.
+5. The Picture of Dorian Gray by Oscar Wilde - Every sentence of this book should be on a list of quotable quotes.
+6. A Thousand Splendid Suns/ The Kite Runner - Khaled Hosseini is an inspiration.
+7. Narcissus and Goldmund by Hermann Hesse - Another book exploring the idea of nirvana via hedonism vs asceticism.
+8. 1984 by George Orwell - A scary book indeed.
+
+###Himanshu Doval
+1. Shantaram by by Gregory David Roberts - I've got a whole huge list of quotes I love from the book. A lesson in life.
+2. All books by Michael Crichton - Never have I seen more well researched or detailed stories, whether it be the American-Japanese relations in Rising Sun, or the beautiful world of dinosaurs in Jurassic Park.
+3. Atlas Shrugged by Ayn Rand - Snuck this out from my mom's collection of books, and hence had the pleasure of reading from a 1982 copy. "The greater his effort the heavier the world bore down upon his shoulders - What would you tell him?"
+I…don't know. What…could he do? What would you tell him?"
+To shrug.”
+4. A Song of Ice & Fire by George R R Martin - The entire series made me realise the battery backup of my Kindle!
+5. Catcher in the Rye by J D Salinger - A book I identified with so much that there are pages I reread in the same sitting
+6. Catch-22 by Joseph Heller - I loved the circularity in plot and the unforgettable black humour coupled with the background of war
+7. Hitchhiker's Guide to the Galaxy by Douglas Adams - I found the answer to life, the universe & everything in this series. One of my most prized possessions.
+8. Far from the madding crowd by Thomas Hardy - Again something I nicked from my mom's collection. The visual imagery is so strong here, you actually feel like you know what rural England was like.
+9. And then there were none by Agatha Christie - The first one that came to my mind when I thought of her. No offence meant to Miss Marple or Mr Poirot, who made trips to the library fun and frequent in school.
+10. Slaughterhouse 5 -"there is nothing intelligent to say about a massacre." Nuff said.
+
+###Karan Rajiv Gaikwad
+1. Goosebumps (R.L. Stine) 
+2. Harry Potter (J. K. Rowling)
+3. The Millennium Series (Stieg Larsson)
+4. The Fountainhead (Ayn Rand)
+5. Books by Dean Koontz
+6. Prelude to Foundation (Isaac Asimov)
+7. Brave New World (Alous Huxley)
+8. Naruto (Masashi Kishimoto)
+9. Kingdom Come (Alex Ross, Mark Vaid)
+10. 1984 & Animal Farm (George Orwell)
 
 ###Kenneth Mark Dsouza
 1. Batman: The Killing Joke
@@ -251,6 +313,18 @@ Disha Gujar
 9. Little Women - Louisa May Alcott
 10. Animal Farm - George Orwell
 11. Hitchhikers Guide to the Galaxy - Douglas Adams
+
+###Manashree Malpe
+1. Sherlock Holmes by Arthur Conan Doyle- for being the reason why I started reading in the first place and for the being the most brilliant character ever created.
+2. Love in the time of Cholera by Gabriel Garcia Marquez- probably the best romantic novel ever!
+3. The Emperor of all Maladies by Siddartha Mukherjee- for being so much more than just a biopgraphy of cancer
+4. The Goldfinch by Donna Tart- for filling the vaccum caused after reading book no 5 and questiong the conventional line between right and wrong.
+5. Shantaram by Gregory Davis Roberts- for showing that beauty lies in the eyes of the beholder
+6. The kite runner by Khaled Hossieni- for being the one of the most heartbreaking stories about loyalty and frienship
+7. Animal farm by George Orwell- a great political sattire
+8. Have a little faith by Mitch Albom - for showing the humane side of religion and faith 
+9. Harry Potter by J.K.Rowling- for teaching that the real magic lies with people
+10.A twist in the tale by Jefferey Archer- because things are never what they seem to be.
 
 ###Nambirajan Vanamamalai
 1. Maus by Art Spiegelman
@@ -447,6 +521,18 @@ Calvin & Hobbes, Bill Watterson
 9. Catcher in the rye
 10. The year without pants
 
+###Shashank Kumar
+1. Hitchhiker’s Guide to the Galaxy - Douglas Adams
+2. Neuromancer - William Gibson
+3. Sophie’s World - Jostein Gaarder
+4. The Snow Leopard - Peter Matthiessen
+5. Catcher in the Rye - J.D. Salinger
+6. Chariots of the Gods - Erich von Däniken
+7. Shockwave (Countdown to Hiroshima) - Stephen Walker
+8. The Third Eye - Tuesday Lobsang Rampa
+9. Metamorphosis - Franz Kafka
+10. White Fang / Call of the Wild - Jack London
+
 ###Shreyas Habbu
 1. Ajaya- An Epic of the Kaurava Clan by Anand Neelakantan
 2. Moonwalking with Einstein by Joshua Foer
@@ -458,6 +544,19 @@ Calvin & Hobbes, Bill Watterson
 8.The Alchemist by Paulo Coehlo 
 9. India After Gandhi by Ramchandra Guha
 10. The White Tiger by Arvind Adiga
+
+###Shridhar Ramachandran
+1. The Secret of the Key (probably my earliest memory of a book I've figuratively devoured, can't find any instances of it online now though :()
+2. Harry Potter series (no shit, Sherlock)
+3. Animorphs/A Series of Unfortunate Events (Clubbing these 2 together as even though I don't recall every single detail of these 2 series' of books, I do associate a lot of great childhood memories with these books)
+4. False Impressions by Jeffrey Archer
+5. A Thousand Splendid Suns by Khaled Hosseini
+6. A Song of Ice and Fire series by George RR Martin
+7. Neither Here Nor There by Bill Bryson (probably the best and only pseudo-travel book I've read)
+8. Salmon Fishing in the Yemen by Paul Torday (lovely epistolary novel)
+9. The Devotion of Suspect X by Keigo Higashino (despite sorta having grown out of mystery novels, this blew my mind)
+10. The Name of the Wind by Patrick Rothfuss
+11. (rules are allowed to be broken if they involve Wodehouse) Right Ho, Jeeves! by PG Wodehouse
 
 ###Shruti Dhoot
 1. A thousand splendid suns - Khaled Hosseini
