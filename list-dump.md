@@ -68,18 +68,6 @@ Market Wizards series - Jack Schwager
 Fooled by Randomness - Nassim Nicholas Taleb
 The Invisible Hands/Inside the house of Money - Steven Drobny
 
-###Arun Jay
-1. Mud
-2. Kin Dza Dza
-3. Goodfellas
-4. Full Metal Jacket
-5. The Gods Must be Crazy
-6. Nayakan 
-7. The Big Lebowski
-8. Dances with Wolves
-9. Ken Park
-10. Last Tango in Paris
-
 ###Debanjan Basu
 1. Making History -Stephen Fry
 2. V for vendetta -Alan Moore and David Lloyd
