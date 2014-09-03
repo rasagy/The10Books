@@ -1,4 +1,4 @@
-_Count: #50_
+_Count: #52_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -426,6 +426,18 @@ To shrug.”
 9. Breaking Trail by Arlene Blum
 10. Lust for Life (And Agony and Ecstasy- both are awesome and hence there's a tie!) by Irving Stone
 
+###Ravan Chitturi
+1. Eating People Is Wrong - Malcolm Bradbury
+2. How To Avoid Huge Ships - Captain John W. Trimmer
+3. The Manly Art Of Knitting - Dave Fougner
+4. Everything I know about women I learned from my tractor - Roger Welsch
+5. How to raise your I.Q. by eating gifted children - Lewis Burke Frumkes
+6. Does God Ever Speak Through Cats - David Evans
+7. Who Cares About Elderly People - Pam Adams
+8. Are woman human? And other International Dialogues - Catherine A.MacKinnon
+9. Why Cats Paint?- A theory of feline aesthetics - Heather Busch, Burton Silver
+10. Fancy Coffins To Make Yourself - Dale
+
 ###Ravitheja Tetali
 1. “To a great mind, nothing is little.”
 The Complete Sherlock Holmes, Sir Arthur Conan Doyle
@@ -697,3 +709,15 @@ In stark contrast to Video nights this book showcases the other side of travel a
 10. ನನ್ನ ತೇಜಸ್ವಿ - ರಾಜೇಶ್ವರಿ
 11. ತುಗಲಕ್ - ಗಿರೀಶ್ ಕಾರ್ನಾಡ್
 12. Millennium series - Stieg Larsson
+
+###Utsav Das
+1. The Kite Runner - Khaled Hosseini
+2. The Palace of Illusions - Chitra Banerjee
+3. Rumi: Bridge to the Soul - Coleman Barks
+4. Forty Rules of Love - Elif Shafak
+5. Time's Arrow - Martin Amis
+6. The Dune Series - Frank Herbert
+7. Angels and Demons - Dan Brown
+8. The Alchemist - Paulo Coelho
+9. The Godfather - Mario Puzo
+10. The Harry Potter Series - J.K. Rowling
