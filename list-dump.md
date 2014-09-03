@@ -1,4 +1,4 @@
-_Count: #52_
+_Count: #53_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -166,6 +166,28 @@ _Count: #52_
 9. The Desert Spear - Peter V. Brett
 10. A Song of Ice and Fire Series - George R.R. Martin
 11. Harry Potter Series - J.K. Rowling
+
+###Harsha Vardhan Sripathi
+1. Malazan- steven erikson 
+The sheer scope will grab your mind and take you away
+2. The wheel of time - robert jordan
+The concept of how good and evil cannot even be independent
+3. The snowball - warren buffet
+Numbers numbers numbers
+4. Business stripped bare - richard brandson
+Screw the numbers
+5. Lord of the rings - Jrr tolkein 
+First fantasy , first llove.
+6. Empire of the mughals - alex rutherford
+Sheer grit and determination coupled with a little luck can take you places.
+7. Roots - alex haey
+The name says it all.
+8. Mysteries - colin wilson
+Delve into the myateries of the human brain
+9. The fountainhead - ann rynd
+Objectivism.... nuff said
+10. The complete works of kahil gibran 
+Poetry at its finest
 
 ###Himadree Kaushik
 1. Shalimar the Clown by Salman Rushdie
