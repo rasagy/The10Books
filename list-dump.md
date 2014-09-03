@@ -1,4 +1,4 @@
-_Count: #53_
+_#56_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -46,6 +46,16 @@ _Count: #53_
 8. Goosebumps - R.L. Stine 
 9. Meera in Hindi. - from Ramakrishna mission
 10. The Picture of Dorian Gray - Oscar Wilde
+
+###Adya Jha
+1. The Kite Runner - Khaled Hosseini 
+2. The Prodigal Daughter - Jeffrey Archer 
+3. To Kill A Mockingbird - Harper Lee
+4. A Thousand Splendid Suns - Khaled Hosseini
+5. Palace of Illusions - Chitra Banerjee Divakaruni
+6. Animal Farm - George Orwell 
+7. The Diary of a Young Girl - Anne Frank.
+8. Sons of Fortune - Jeffrey Archer
 
 ###Akshatha N Hegde
 1. The Famous Five series - I spent half my childhood with it and it reminds me of the other half.
@@ -436,6 +446,18 @@ To shrug.”
 9. Harry Potter series - Joanne Rowling
 10.The complete collection of Calvin & Hobbes - Bill Watterson
 
+###Raghavendra Datta
+1. The Anthem - Ayn Rand
+2. I, Robot - Isaac Asimov
+3. Confessions of an Economic Hitman - John Perkins
+4. Vedantic Tales- Sister Gargi
+5. Krishnamurthi's Notebook - Jiddu Krishnamurthi
+6. Mahabharata - C.Rajagopalachari
+7. Obedience to Authority : An Experimental View - Stanley Milgram
+8. The Afghan - Frederick Forsyth
+9. The Bartimaeus Trilogy - Jonathan Stroud
+10. Surely You're Joking, Mr. Feynman - Richard Feynman
+
 ###Ramya Hegde
 1. Harry Potter (all books) by J.K.Rowling
 2. A long walk to freedom by Nelson Mandela
@@ -626,6 +648,19 @@ Calvin & Hobbes, Bill Watterson
 19. Adventures of Tintin – Herge. 
 20. Godel Esher Bach – Doug Hofstader – Incomplete reading, may never finish.
 
+###Sindhura Malireddy
+1. Fountainhead by Ayn Rand
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The picture of Dorian Grey by Oscar Wilde
+4. Catch 22 by Joseph Heller
+5. Gone with the Wind by Margaret Mitchell
+6. Animal Farm by George Orwell
+7. To Kill a Mockingbird by Harper Lee
+8. The Day of the Jackal by Frederick Forsyth
+9. Lolita by Nabokov
+10. Count of Monte Cristo by Dumas
+11. Lord of the Rings by Tolkein
+
 ###Supreeth Srinivasamurthy
 1. Ruskin Bond: Collected Fiction 
 My Mother got this for me from the Joseph's Library (where I spent many hours in my PU years). Devoured every story and novella from this collection many times over. One novella The Sensualist gave me many sleepless nights thanks to its overtly sexual themes. Possibly my first encounter with any sexual content in writing.
@@ -743,3 +778,14 @@ In stark contrast to Video nights this book showcases the other side of travel a
 8. The Alchemist - Paulo Coelho
 9. The Godfather - Mario Puzo
 10. The Harry Potter Series - J.K. Rowling
+
+###Yadu Rajiv
+1. Masters of Doom - David Kushner 
+2. Hitchhikers Guide to the Galaxy - Douglas Adams
+3. Metamorphosis - Franz Kafka
+4. Chronicle of a Death Foretold - Gabriel Garcia Marquez
+5. Aithihyamala - Kottarathil Sankunni
+6. Sanchariyude Thanu Poya Veedu - Savithri Rajeevan
+7. Adventures of Tintin - Herge
+8. Asterix - Goscinny and Uderzo
+9. Snoopy - Charles M Schulz
