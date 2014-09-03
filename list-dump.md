@@ -1,4 +1,4 @@
-_#56_
+_#63_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -92,6 +92,18 @@ _#56_
 8. Fooled by Randomness - Nassim Nicholas Taleb
 9. The Invisible Hands/Inside the house of Money - Steven Drobny
 
+###Anubhav Kapoor
+1. Atlas Shrugged by Ayn Rand: This book made me look back at whole of my life, each event and every choice that I made was put to test
+2. Zen and the Art of Motorcycle Maintenance by Robert Pirsig: While the characters maintain their motorcycle, you discover your twenty something self
+3. Jonathan Livingston Seagull by Richard Bach -Thanks Akshay Verenkar for this book)
+4. The Fountainhead by Ayn Rand
+5. Before Sunrise & Before Sunset by -These are movies but I wish Ethan Hawke & Julie Delpy ever thought of writing books!
+6. Godaan by Munshi Premchand: A Hindi Classic and a comment upon India's beliefs and its social skeleton - Madhu Kapoor
+7. Pride and Prejudice by Jane Austen: Classy, Witty and immensely memorable
+8. Something Borrowed; and Something Blue by Emily Griffin
+9. Love Story by Erich Segal - Omkar Kaskar 
+10. Zahir by Paulo Coelho
+
 ###Anumeha Mittal
 1. Harry Potter Series by J.K. Rowling
 2. Enid Blyton books - The Famous Five, Five Find-Outers
@@ -104,17 +116,54 @@ _#56_
 9. Afghan by Frederick Forsyth
 10. Not a Penny More, Not a Penny Less by Jeffery Archer
 
+###Arjit Aggarwal
+1. The Kite Runner, Khaled Hosseini
+2. GOAL!: The Dream Begins - Robert Rigby
+3. Breakout Nations: In Pursuit of the Next Economic Miracles – Ruchir Sharma
+4. Chanakya's Chant – Ashwin Sanghi
+5. The Last Lecture – Randy Pausch
+6. The Time Keeper – Mitch Albom
+7. It's Not About the Bike: My Journey Back to Life – Lance Armstrong
+8. Fever Pitch – Nick Hornby
+9. Currency Wars: The Making of the Next Global Crisis – James Rickards
+10. The One Minute Manager - Kenneth H. Blanchard
+
+###Arvind Iyer
+1. Srimad Bhagavad Gita - Veda Vyasa
+2. The Prospects of Industrial Civilization - Russell
+3. The Book of Five Rings - Miyamoto Musashi
+4. Arthashastra and Chanakya Niti - Kautilya
+5. Aesop's Fables - Aesop
+6. Doctors - Erich Segal
+7. 1984 and Animal Farm - Orwell
+8. Atlas Shrugged - Ayn Rand
+9. The collected writings and speeches of Cicero
+10. Romance of the Three Kingdoms - Luo Ganzhong
+
+###Asmita Misra
+1. The Design of Everyday Things by Don Norman - One can always go back to this one with any product service or system in mind and get a new perspective on its design and functionality.
+2. Persepolis by Marjane Satrapi - The beauty of illustrations, storytelling and reproducing the same style on various media, besides the story itself, makes me think of this book often.
+3. The Catcher in the Rye by J.D. Salinger - Its simplicity and pointlessness but the fact that I still read it through, amazes me.
+4. Doctors by Eric Segal - I read this a long long time ago but for that phase of my life, it was an iconic story which almost introduced me to another way of life.
+5. Toxin by Robin Cook - Even though I read a lot of his books, this one still sticks with me for its scandalous story line and its description of a father's earnest efforts to do anything to protect his child.
+6. Timeline, Congo by Michael Crichton - Two very descriptive, scientific and complicated books for when I read then in my 9th class. I thoroughly enjoyed reading and understanding these books back then.
+7. The Hungry Tide, The Glass Palace by Amitav Ghosh - My first foray into Indian Fiction, I was totally absorbed by these stories. still haven't been able to visit Sunderbans.
+8. The Kite Runner by Khaled Hosseini - No need to describe why this book is on most people's list.
+9. 50 Shade Series by E.L. James - The research/ experience that must've gone behind this book and the delicate way in which she has portrayed this sensitive topic makes this a love story to me more than anything else.
+10. Harry Potter Series by J.K. Rowling - Of Course, can't count how many times I would've read this one.
+
 ###Chaitanya Czajtania
-1. The pleasure of finding things out (and works. - Richard Feynman
-2. "She walks in Beauty" - Lord Byron (and works. 
+1. The pleasure of finding things out (and works) - Richard Feynman
+2. "She walks in Beauty" - Lord Byron (and works) 
 3. "...'Am I the right person to do it?’ will always be ineffective himself and a discouragement to others..." - A Mathematician's Apology - G H Hardy
 4. “And that's the thing about people who mean everything they say. They think everyone else does too.” - Khaled Hosseini, The Kite Runner.
 5. "The world bores you when you're cool" - Bill Watterson, Calvin and Hobbes.
 6. "Inject a few raisins of conversation into the tasteless dough of existence” - O Henry, Complete works
-7. The adventures of Tom Sawyer - Mark Twain. (and works.
-8. "If you forget me" - Pablo Neruda. (and works.
-9. A Penny Saved is Impossible - Ogden Nash (and works.
-10. The man who mistook his wife for a hat - Oliver Sacks (and works. and Phantoms in the brain - V.S. Ramachandran 
+7. The adventures of Tom Sawyer - Mark Twain. (and works)
+8. "If you forget me" - Pablo Neruda. (and works)
+9. A Penny Saved is Impossible - Ogden Nash (and works)
+10. The man who mistook his wife for a hat - Oliver Sacks (and works) 
+11.Phantoms in the brain - V.S. Ramachandran 
 
 ###Debanjan Basu
 1. Making History -Stephen Fry
@@ -399,6 +448,18 @@ To shrug.”
 9. Yayati - V. S Khandekar
 10. Godan - Premchand
 
+###Paras Chopra
+1. Brief history of time by Stephen Hawking
+2. The Selfish Gene by Dawkins
+3. Fooled by Randomness by Taleb
+4. Antifragile by Taken
+5. Founders at Work
+6. God Delusion
+7. Nausea by Sartre
+8. The Outsider by Camus
+9. The Hitchhikers guide to galaxy
+10. Predictibly Irrational
+
 ###Prabhashish Singh
 1. Love at the time of cholera- Gabriel Garcia
 2. Catcher in the rye- JD Salinger
@@ -593,11 +654,11 @@ Calvin & Hobbes, Bill Watterson
 1. Ajaya- An Epic of the Kaurava Clan by Anand Neelakantan
 2. Moonwalking with Einstein by Joshua Foer
 3. Wings of Fire by A P J Abdul Kalam
-4.Tuesdays with morrie by Mitch Albom
+4. Tuesdays with morrie by Mitch Albom
 5. The Last Lecture by Randy Pausch
 6. Prisoner of Birth by Jeffery Archer 
 7. Stay Hungry, Stay Foolish- Rashmi Bansal
-8.The Alchemist by Paulo Coehlo 
+8. The Alchemist by Paulo Coehlo 
 9. India After Gandhi by Ramchandra Guha
 10. The White Tiger by Arvind Adiga
 
