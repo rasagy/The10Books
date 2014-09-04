@@ -1,4 +1,4 @@
-_#63_
+_#66_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -48,7 +48,7 @@ _#63_
 10. The Picture of Dorian Gray - Oscar Wilde
 
 ###Adya Jha
-1. The Kite Runner - Khaled Hosseini 
+1. The Kite Runner - Khaled Hosseini
 2. The Prodigal Daughter - Jeffrey Archer 
 3. To Kill A Mockingbird - Harper Lee
 4. A Thousand Splendid Suns - Khaled Hosseini
@@ -225,6 +225,24 @@ _#63_
 9. The Desert Spear - Peter V. Brett
 10. A Song of Ice and Fire Series - George R.R. Martin
 11. Harry Potter Series - J.K. Rowling
+
+###Gursartaj Singh Nijjar
+1. The Enchanted Wood - Enid Blyton (very vividly remember the forest)
+2. Famous Five series - Enid Blyton
+3. Goosebumps - RL Stine (For the humour actually, i found them to be incredibly funny)
+4. Hitchhikers Guide - Douglas Adams (I managed to read 4 of the 5 in the trilogy of five books)
+5. Londonstani - Gautam Malkani
+6. 55 - Chetan Chhatwal 
+7. Wheel of Surya - Jamila Gavin (Read it in Class 8 in school)
+8. Hello, I love you, Goodbye! - Steve Reichstein
+9. Mathematics for Class X, XI, and XII - RD Sharma 
+10. Animal Farm - George Orwell 
+11. Inscrutable Americans
+12. Corporate Finance by Brealey, Myers and Allen
+13. Financial Statement Analysis and Valuation - Stephen H Penman
+14. The innumerable Tell me Whys, encyclopaedias, Joy of knowledge etc that i read as a child
+15. An introduction to Real Analysis - Bartle & Sherbert (Whichever part I read was interesting)
+16. Fools Die and Godfather - Mario Puzo
 
 ###Harsha Vardhan Sripathi
 1. Malazan- steven erikson 
@@ -470,6 +488,18 @@ To shrug.”
 7. The guide- rk narayan
 8. I miss my pencil- kara Johnson/ martin bone
 
+###Praveen Kumar
+1. Pilgrim's Progress by John Bunyan
+2. Holy Bible (well, of course you know why)
+3. Fundamentals of Physics (Resnick and Halliday)
+4. Death by facebook (got it for free when I installed the kindle android app)
+5. Thinking fast and slow
+6. Rework (37 Signals)
+7. Connect the dots
+8. The DaVinci code
+9. Midnight's Children (was part of HS course)
+10. Six Degrees - the science of a connected age (by Duncan Watts)
+
 ###Prashant Nagpal
 1. Victor Hugo - Les Miserables
 2. Jack Kerouac - On the Road
@@ -518,6 +548,18 @@ To shrug.”
 8. The Afghan - Frederick Forsyth
 9. The Bartimaeus Trilogy - Jonathan Stroud
 10. Surely You're Joking, Mr. Feynman - Richard Feynman
+
+###Raghu Nayyar
+1. The Design of everyday things - Donald Norman (About industrial / Interaction Design)
+2. Thinking with Type - Ellen Lupton (Typography)
+3. Steve Jobs - Donald A. Norman (Biography, Non Fiction)
+4. The Day Of The Jackal - Frederick Forsyth (Fiction, Genre : Thriller / Suspense)
+5. The Ignited Minds - APJ Abdul Kalam (Non Fiction, AIMS Sir gifted me :D)
+6. Eleven Minutes - Paulo Coelho (Fiction, Genre: Drama / Romance)
+7. The Client - John Grisham (Fiction, Genre: Suspense / Courtroom drama)
+8. Striking Back - Aaron J. Klein (About Munich Massacre, 1972 and Israel's steps after that)
+9. And then there were none - Agatha Christie (I am sure I have read more than 20-25 of hers while I was in 7 or 8th grade)
+10. 4:50 from Paddington - Agatha Christie
 
 ###Ramya Hegde
 1. Harry Potter (all books) by J.K.Rowling
