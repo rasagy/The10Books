@@ -36,24 +36,24 @@ _#66_
 21. The Adventures of Tom Sawyer - Mark Twain
 
 ###Abhinav Malhotra
-1. Diary of a young girl - Anne Frank 
-2. Banker to the Poor - Yunus 
-3. Love Story - Erich Segal 
-4. The Alchemist - Coelho 
-5. Practical Vedanta - Swami Vivekananda 
+1. Diary of a young girl - Anne Frank
+2. Banker to the Poor - Yunus
+3. Love Story - Erich Segal
+4. The Alchemist - Coelho
+5. Practical Vedanta - Swami Vivekananda
 6. Without Fear: The Life & Trial of Bhagat Singh - Kuldeep Nayyar
 7. Patriots and Partisans - Ramachandra Guha
-8. Goosebumps - R.L. Stine 
+8. Goosebumps - R.L. Stine
 9. Meera in Hindi. - from Ramakrishna mission
 10. The Picture of Dorian Gray - Oscar Wilde
 
 ###Adya Jha
 1. The Kite Runner - Khaled Hosseini
-2. The Prodigal Daughter - Jeffrey Archer 
+2. The Prodigal Daughter - Jeffrey Archer
 3. To Kill A Mockingbird - Harper Lee
 4. A Thousand Splendid Suns - Khaled Hosseini
 5. Palace of Illusions - Chitra Banerjee Divakaruni
-6. Animal Farm - George Orwell 
+6. Animal Farm - George Orwell
 7. The Diary of a Young Girl - Anne Frank.
 8. Sons of Fortune - Jeffrey Archer
 
@@ -66,7 +66,7 @@ _#66_
 6. Delirious New York - For all its for's and Rem Koolhas.
 7. The Twilight Series - For showing me what kind of books are definite no-no's (despite having fun characters like Jacob) for me to write in the future.
 8. Memoirs of a Geisha - Because all our worlds need books that describe them to other worlds like this book does Japan and the world of Geisha.
-9. The Da Vinci Code - For sensitizing me to patterns, cryptics and typography, even. 
+9. The Da Vinci Code - For sensitizing me to patterns, cryptics and typography, even.
 10. Sense and Sensibility/ Pride and Prejudice (Just. Cannot. Pick. One) - For giving me Mr. Darcy, for the love of the stories of Medieval England and for love.
 
 ###Amit Das
@@ -101,7 +101,7 @@ _#66_
 6. Godaan by Munshi Premchand: A Hindi Classic and a comment upon India's beliefs and its social skeleton - Madhu Kapoor
 7. Pride and Prejudice by Jane Austen: Classy, Witty and immensely memorable
 8. Something Borrowed; and Something Blue by Emily Griffin
-9. Love Story by Erich Segal - Omkar Kaskar 
+9. Love Story by Erich Segal - Omkar Kaskar
 10. Zahir by Paulo Coelho
 
 ###Anumeha Mittal
@@ -154,7 +154,7 @@ _#66_
 
 ###Chaitanya Czajtania
 1. The pleasure of finding things out (and works) - Richard Feynman
-2. "She walks in Beauty" - Lord Byron (and works) 
+2. "She walks in Beauty" - Lord Byron (and works)
 3. "...'Am I the right person to do it?’ will always be ineffective himself and a discouragement to others..." - A Mathematician's Apology - G H Hardy
 4. “And that's the thing about people who mean everything they say. They think everyone else does too.” - Khaled Hosseini, The Kite Runner.
 5. "The world bores you when you're cool" - Bill Watterson, Calvin and Hobbes.
@@ -162,8 +162,8 @@ _#66_
 7. The adventures of Tom Sawyer - Mark Twain. (and works)
 8. "If you forget me" - Pablo Neruda. (and works)
 9. A Penny Saved is Impossible - Ogden Nash (and works)
-10. The man who mistook his wife for a hat - Oliver Sacks (and works) 
-11.Phantoms in the brain - V.S. Ramachandran 
+10. The man who mistook his wife for a hat - Oliver Sacks (and works)
+11.Phantoms in the brain - V.S. Ramachandran
 
 ###Debanjan Basu
 1. Making History -Stephen Fry
@@ -179,7 +179,7 @@ _#66_
 
 ###Deepak Mehta
 1. Hobbit - JRR Tolkien
-2. The Little Prince - Antoine de Saint-Exupéry 
+2. The Little Prince - Antoine de Saint-Exupéry
 3. Great Expectations - Charles Dickens
 4. Tuesdays with Morrie - Mitch Albom
 5. A short history of nearly everything - Bill Bryson
@@ -205,7 +205,7 @@ _#66_
 1. Palace of Illusions - Chitra Banerjee Divakaruni. For being my comfort, my go-to book. For teaching me perspective.
 2. Calvin and Hobbes - Bill Watterson. Don't need to explain why. I adore these two and the bond that they share.
 3. Love is a Dog from Hell - Charles Bukowski. Ah, man. Poetry that's straight, no pretentious bullshit included. So hard hitting.
-4. The Catcher in the Rye - J.D. Salinger. I get you, Caulfield, you whiny brat. 
+4. The Catcher in the Rye - J.D. Salinger. I get you, Caulfield, you whiny brat.
 5. Em and the Big Hoom - Jerry Pinto. Such an unexpected treasure. This book makes me chuckle while addressing a solemn issue. Beautifully written.
 5. Famous 5 - Enid Blyton. I WANT A TIMMY IN MY LIFE. I JUST DO.
 6. Of Human Bondage - W. Somerset Maugham. No words. This was a painful read. In the best sense.
@@ -214,14 +214,14 @@ _#66_
 9. Archie Comics - Stan Goldberg. For giving me my first glimpses into romance, jealousy and gluttony.
 
 ###Faraaz Ansari
-1. Leviathan Wakes- James SA Corey 
-2. The Lies of Locke Lamora - Scott Lynch 
+1. Leviathan Wakes- James SA Corey
+2. The Lies of Locke Lamora - Scott Lynch
 3. Best Served Cold - Joe Abercrombie
 4. The Last Wish - Andrzej Sapkowski
 5. The Prince of Nothing - R. Scott Bakker
-6. Under Heaven - Guy Gavriel Kay 
+6. Under Heaven - Guy Gavriel Kay
 7. Scarecrow - Matthew Reilly
-8. The Republic of Thieves - Scott Lynch 
+8. The Republic of Thieves - Scott Lynch
 9. The Desert Spear - Peter V. Brett
 10. A Song of Ice and Fire Series - George R.R. Martin
 11. Harry Potter Series - J.K. Rowling
@@ -232,11 +232,11 @@ _#66_
 3. Goosebumps - RL Stine (For the humour actually, i found them to be incredibly funny)
 4. Hitchhikers Guide - Douglas Adams (I managed to read 4 of the 5 in the trilogy of five books)
 5. Londonstani - Gautam Malkani
-6. 55 - Chetan Chhatwal 
+6. 55 - Chetan Chhatwal
 7. Wheel of Surya - Jamila Gavin (Read it in Class 8 in school)
 8. Hello, I love you, Goodbye! - Steve Reichstein
-9. Mathematics for Class X, XI, and XII - RD Sharma 
-10. Animal Farm - George Orwell 
+9. Mathematics for Class X, XI, and XII - RD Sharma
+10. Animal Farm - George Orwell
 11. Inscrutable Americans
 12. Corporate Finance by Brealey, Myers and Allen
 13. Financial Statement Analysis and Valuation - Stephen H Penman
@@ -245,7 +245,7 @@ _#66_
 16. Fools Die and Godfather - Mario Puzo
 
 ###Harsha Vardhan Sripathi
-1. Malazan- steven erikson 
+1. Malazan- steven erikson
 The sheer scope will grab your mind and take you away
 2. The wheel of time - robert jordan
 The concept of how good and evil cannot even be independent
@@ -253,7 +253,7 @@ The concept of how good and evil cannot even be independent
 Numbers numbers numbers
 4. Business stripped bare - richard brandson
 Screw the numbers
-5. Lord of the rings - Jrr tolkein 
+5. Lord of the rings - Jrr tolkein
 First fantasy , first llove.
 6. Empire of the mughals - alex rutherford
 Sheer grit and determination coupled with a little luck can take you places.
@@ -263,17 +263,17 @@ The name says it all.
 Delve into the myateries of the human brain
 9. The fountainhead - ann rynd
 Objectivism.... nuff said
-10. The complete works of kahil gibran 
+10. The complete works of kahil gibran
 Poetry at its finest
 
 ###Himadree Kaushik
 1. Shalimar the Clown by Salman Rushdie
 2. The Stranger by Alber Camus
 3. An Autobiography (Toward Freedom. by Jawaharlal Nehru
-4. Guards! Guards! by Terry Pratchett 
+4. Guards! Guards! by Terry Pratchett
 5. Down and Out in Paris and London by Orwell
 6. Stiff Upper, Jeeves by P.G. Wodehouse
-7. The Fountainhead by Ayn Rand 
+7. The Fountainhead by Ayn Rand
 8. Catcher in the Rye by Salinger
 9. India After Gandhi by Ramchandra Guha
 10. Vaishali Ki Nagar Vadhu by Acharya Chatursen (Hindi.
@@ -303,7 +303,7 @@ To shrug.”
 10. Slaughterhouse 5 -"there is nothing intelligent to say about a massacre." Nuff said.
 
 ###Karan Rajiv Gaikwad
-1. Goosebumps (R.L. Stine) 
+1. Goosebumps (R.L. Stine)
 2. Harry Potter (J. K. Rowling)
 3. The Millennium Series (Stieg Larsson)
 4. The Fountainhead (Ayn Rand)
@@ -375,7 +375,7 @@ To shrug.”
 10. Harry Potter and the Order of the Phoenix
 
 ###Kruttika Susarla
-1. Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams 
+1. Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
 2. Embroideries by Marjane Satrapi (also, her very well-known Persepolis (graphic novel) and her new Chicken with Plums(yet to read this myself).
 3. Journalism by Joe Sacco
 4. Boy by Roald Dahl
@@ -389,11 +389,11 @@ To shrug.”
 ###Maddie Thirupathy
 1. Anne of Green Gables
 2. Little Women
-3. Harry Potter and the Deathly Hallows 
+3. Harry Potter and the Deathly Hallows
 4. To Kill a Mockingbird
-5. The Stranger 
-6. Choke 
-7. The Gambler 
+5. The Stranger
+6. Choke
+7. The Gambler
 8. Critique of Pure Reason
 9. The Romantic Manifesto
 10. Kane and Abel
@@ -402,7 +402,7 @@ To shrug.”
 
 ###Manasee Narvilkar
 1. Harry Potter and the Philosopher's Stone - J.K. Rowling
-2. Mister God, This Is Anna - Fynn 
+2. Mister God, This Is Anna - Fynn
 3. The Murder of Roger Ackroyd - Agatha Christie
 4. The 7 Habits of Highly Effective Teens - Sean Covey
 5. Games People Play - Eric Berne
@@ -421,7 +421,7 @@ To shrug.”
 5. Shantaram by Gregory Davis Roberts- for showing that beauty lies in the eyes of the beholder
 6. The kite runner by Khaled Hossieni- for being the one of the most heartbreaking stories about loyalty and frienship
 7. Animal farm by George Orwell- a great political sattire
-8. Have a little faith by Mitch Albom - for showing the humane side of religion and faith 
+8. Have a little faith by Mitch Albom - for showing the humane side of religion and faith
 9. Harry Potter by J.K.Rowling- for teaching that the real magic lies with people
 10.A twist in the tale by Jefferey Archer- because things are never what they seem to be.
 
@@ -443,19 +443,19 @@ To shrug.”
 3. The Harry Potter Series by JK Rowling
 4. The Little Prince by Antoine de Saint-Exupéry
 5. The Inimitable Jeeves by PG Wodehouse
-6. Persepolis by Marjane Satrapi 
+6. Persepolis by Marjane Satrapi
 7. Jonathan Livingston Seagull by Richard Bach
 8. Goodnight Mr Tom by Michelle Magorian
-9. Calvin and Hobbes by Bill Watterson 
+9. Calvin and Hobbes by Bill Watterson
 10. Alice in Wonderland by Lewis Caroll
-11. The Perks of being a Wallflower by Stephen Chbosky 
+11. The Perks of being a Wallflower by Stephen Chbosky
 12. Midnight's Children by Salman Rushdie
-13. 1984 by George Orwell 
+13. 1984 by George Orwell
 14. The Hunger Games by Suzanne Collins
 15. The Prophet by Kahlil Gibran
 
 ###Niramayee Sarpotdar
-1. A fine balance - Rohington Mistry 
+1. A fine balance - Rohington Mistry
 2. Shame - Salman Rushdie
 3. The complete Sherlock Holmes - Sir Arthur Conan Doyle
 4. Sophie's world - Jostein Gaarder
@@ -636,11 +636,11 @@ Calvin & Hobbes, Bill Watterson
 1. The Fountainhead, by Ayn Rand
 2. 1984, by George Orwell
 3. I, Robot, by Isaac Asimov
-4. Tuesdays with Morrie, by Mitch Albom 
-5. iWoz, by Steve Wozniak 
+4. Tuesdays with Morrie, by Mitch Albom
+5. iWoz, by Steve Wozniak
 6. The Bartimaeus Trilogy, by Jonathan Stroud
 7. Gaban, by Premchand
-8. The Code Book, by Simon Singh 
+8. The Code Book, by Simon Singh
 9. All the Khaled Hosseini books.
 10. The Harry Potter series, by J K Rowling.
 
@@ -648,23 +648,23 @@ Calvin & Hobbes, Bill Watterson
 1. Chacha Chaudhary and all works of Pran! Which started my journey!
 2. Archies comics
 3. Secret Seven- complete series!
-4. Agatha Christie- All Hercule Poirot mystries! thanks to Shailee who told me about this in class 6th I think. 
-5. All Jeffery Archer novels (except short stories. my companion during school years. Hard to choose one. 
+4. Agatha Christie- All Hercule Poirot mystries! thanks to Shailee who told me about this in class 6th I think.
+5. All Jeffery Archer novels (except short stories. my companion during school years. Hard to choose one.
 6. Harry Potter series (4th one being my fav.. One book I read completely on my N72 in a few days!
 7. Freakonomics
-8. Dan Brown - Da Vinci Code and Angels and Demons. 
-9. An Intimate Note to the Sincere Seeker - Sri Sri Ravishankar. Constant companion. 
+8. Dan Brown - Da Vinci Code and Angels and Demons.
+9. An Intimate Note to the Sincere Seeker - Sri Sri Ravishankar. Constant companion.
 10. Sputnik Sweetheart - Murakami.
 
 ###Sanket Gupta
 1. A New Earth by Eckhart Tolle
 2. Death by Black Hole by Neil deGrasse Tyson
 3. Brief History of Time by Stephen Hawking
-4. Power of Now by Eckhart Tolle 
+4. Power of Now by Eckhart Tolle
 5. Les Miserables by Victor Hugo
 6. Losing My Virginity by Richard Branson
 7. Zen and the Art of Motorcycle Maintenance by Robert Pirsig
-8. Man’s Search for Meaning by Viktor Frankl 
+8. Man’s Search for Meaning by Viktor Frankl
 9. 1984 by George Orwell
 10. Selfish Gene by Richard Dawkins
 
@@ -698,9 +698,9 @@ Calvin & Hobbes, Bill Watterson
 3. Wings of Fire by A P J Abdul Kalam
 4. Tuesdays with morrie by Mitch Albom
 5. The Last Lecture by Randy Pausch
-6. Prisoner of Birth by Jeffery Archer 
+6. Prisoner of Birth by Jeffery Archer
 7. Stay Hungry, Stay Foolish- Rashmi Bansal
-8. The Alchemist by Paulo Coehlo 
+8. The Alchemist by Paulo Coehlo
 9. India After Gandhi by Ramchandra Guha
 10. The White Tiger by Arvind Adiga
 
@@ -725,30 +725,30 @@ Calvin & Hobbes, Bill Watterson
 5. Memoirs of a Geisha - Arthur Golden
 6. The Labours of Hercules - Agatha Christie
 7. The Awakening - Jude Deveraux
-8. Pride and prejudice - Jane Austen 
+8. Pride and prejudice - Jane Austen
 9. Sons of Fortune - Jeffrey Archer
 10. Harry Potter and the Prisoner of Azkaban - J. K. Rowling
 
 ###Shubhadeep Bhattacharjee
-1. Autobiography of a Yogi - Paramhansa Yogananda 
-2. Siddhartha - Herman Hesse 
-3. The Quintessential Rumi - Molwana Rumi (also can add Shams Tabrizi) as interpreted by Coleman Barks, i think. 
-4. The Prophet, The Madman , The Wanderer (3 separate collections) - Khalil Gibran - By the author himself in English. 
-5. Selected Poems - Thomas Transtormer translated, i think by Bob Fulton. 
-6. Godaan - Munshi Premchand. 
-7. Geetanjali - Rabindranath Thakur. 
-8. Mahabhartha - C Rajagoplachari. 
-9. Pather Panchali - Bibhutibhushan Bandhopadhyay. 
-10. The Art of Electronics - Horowitz-Hall. 
-11. QED - The Nature of light and matter, Lectures in Caltech- Richard P Feynman. 
-12. The Power of Now/New Earth - Eckhart Tolle. 
-13. The Mother- Maxi Gorkhy. 
-14. Short stories by - O. Henry/ Andre Guy de Mauppasaunt etc. 
-15. Blink/ What the Dog Saw - Malcolm Gladwell. 
-16. Complete Calvin and Hobbes - Bill Watterson. 
-17. Lateral Thinking – Edward D Bono. 
-18. Classics: Oliver Twist/Great Expectations/Tail of two cities (Charles Dickens), Huckleberry Finn/Tom Swayer (Mark Twain), Moby Dick (Herman Meville), 3 Musketeers (Alex Dumas) , Sherlock Holmes (Conan Doyle), LOTR (JRR Tolkein) 
-19. Adventures of Tintin – Herge. 
+1. Autobiography of a Yogi - Paramhansa Yogananda
+2. Siddhartha - Herman Hesse
+3. The Quintessential Rumi - Molwana Rumi (also can add Shams Tabrizi) as interpreted by Coleman Barks, i think.
+4. The Prophet, The Madman , The Wanderer (3 separate collections) - Khalil Gibran - By the author himself in English.
+5. Selected Poems - Thomas Transtormer translated, i think by Bob Fulton.
+6. Godaan - Munshi Premchand.
+7. Geetanjali - Rabindranath Thakur.
+8. Mahabhartha - C Rajagoplachari.
+9. Pather Panchali - Bibhutibhushan Bandhopadhyay.
+10. The Art of Electronics - Horowitz-Hall.
+11. QED - The Nature of light and matter, Lectures in Caltech- Richard P Feynman.
+12. The Power of Now/New Earth - Eckhart Tolle.
+13. The Mother- Maxi Gorkhy.
+14. Short stories by - O. Henry/ Andre Guy de Mauppasaunt etc.
+15. Blink/ What the Dog Saw - Malcolm Gladwell.
+16. Complete Calvin and Hobbes - Bill Watterson.
+17. Lateral Thinking – Edward D Bono.
+18. Classics: Oliver Twist/Great Expectations/Tail of two cities (Charles Dickens), Huckleberry Finn/Tom Swayer (Mark Twain), Moby Dick (Herman Meville), 3 Musketeers (Alex Dumas) , Sherlock Holmes (Conan Doyle), LOTR (JRR Tolkein)
+19. Adventures of Tintin – Herge.
 20. Godel Esher Bach – Doug Hofstader – Incomplete reading, may never finish.
 
 ###Sindhura Malireddy
@@ -765,16 +765,16 @@ Calvin & Hobbes, Bill Watterson
 11. Lord of the Rings by Tolkein
 
 ###Supreeth Srinivasamurthy
-1. Ruskin Bond: Collected Fiction 
+1. Ruskin Bond: Collected Fiction
 My Mother got this for me from the Joseph's Library (where I spent many hours in my PU years). Devoured every story and novella from this collection many times over. One novella The Sensualist gave me many sleepless nights thanks to its overtly sexual themes. Possibly my first encounter with any sexual content in writing.
 An Astrologers Day and other stories by R K Narayan
 Rescued this from uncle's forgotten book collection where this and The Company of Women were the only two english books. It would be many months before I muster up the courage to *borrow* the Khushwant Singh Book. One short story Ishwar is particularly memorable. Its central themes are failure and suicide. I was in class 6. I still own this battered copy, easily the most prized possession in my little library.
 2. Animorphs - K. A. Applegate
 For the uninitiated this is a collection of novellas in which children turn into animals. I will never forget the one where this character turns into an eagle and rides the thermals.
 Goosebumps - R.L.Stine
-Not a huge horror fan now but back then this was heaven. Loved all the twists and turns and cheap scares. Clearly remember being very amused by this one story which ends with the souls of a brother and a sister getting interchanged. 
+Not a huge horror fan now but back then this was heaven. Loved all the twists and turns and cheap scares. Clearly remember being very amused by this one story which ends with the souls of a brother and a sister getting interchanged.
 [HT Nivedita Sanju who was the source of all of these books for me]
-3. 2001: A Space Odyssey - Arthur C Clarke 
+3. 2001: A Space Odyssey - Arthur C Clarke
 This was my introduction to Sci-fi. Made me see the world in ways I didn't know it could exist. Also my first Blossoms buy.
 The Complete Robot- Asimov
 Strictly speaking this should just be I, Robot but what a trip the rest of the stories in this collection are. Robots are the coolest!
@@ -782,25 +782,25 @@ Strictly speaking this should just be I, Robot but what a trip the rest of the s
 Funnily enough, this made me go back and find out my *origin story*. Then it gave me permission to twist and turn it to tell a good story. Indebted.
 Portnoy's Complaint - Philip Roth
 "Who is this Philip Roth? Who are these Jews and why are they so similar to conservative kannadiga families?"
-5. The Long Tail - Chris Anderson 
+5. The Long Tail - Chris Anderson
 Don’t Make Me Think - Steve Krug
 Both of these introduced me to the internet and the broader themes, ideas and possibilities it offers. Used the former's ideas to solve an important problem at a previous workplace which still remains my biggest professional achievement.
 6. Fermat's Last Theorem - Simon Singh
 For a while in college I drifted away from fiction. I'm glad I did. This opened me up to James Gleick, Richard Feynman, Carl Sagan and many other science writers I spent hours reading and learning from.
 Gödel, Escher, Bach: an Eternal Golden Braid - Douglas Hofstadter
 I read most of this sitting in my little room in Yadavanahalli over third year of engineering. Haven't read anything like it since. Still can't make any sense of the math parts. Can barely summarise the other parts.
-7. High Fidelity - Nick Hornby 
+7. High Fidelity - Nick Hornby
 Post college, movies had become my primary source of stories. Found my way back to fiction via John Cusack's whining. I'm happy I did.
 Love is a Mix Tape - Rob Sheffield
 Fragile and beautiful. I love it for the mixtapes and the heartbreak. Both of these books also introduced me to some great music. .
-8. Blankets - Craig Thompson 
+8. Blankets - Craig Thompson
 The art, the story and the characters have all left an indelible mark on me. Re-read it recently and went through all the feelings I experienced when I read it the first time.
-the Scott Pilgrim series - Bryan O'Malley 
+the Scott Pilgrim series - Bryan O'Malley
 Even though I'm not a gamer I loved this because it broke so many conventions about what I thought comic books were. I too will always be in lesbians with Ramona Flowers.
 [Thank you internet for access to these!]
-9. Aunts Aren't Gentlemen 
+9. Aunts Aren't Gentlemen
 I discovered Wodehouse rather late. A colleague at work gave this to me and boy had I missed out on hours of fun. Special mention to The Golf Omnibus which is the other memorable Wodehouse for me.
-Reaper Man- Terry Pratchett 
+Reaper Man- Terry Pratchett
 Don’t think I’ll ever be able to adequately put the Discworld experience to words. Will never forget the mayfly passage that completely shattered my idea of nostalgia.
 10. Video nights in Kathmandu - Pico Iyer
 This sparked my enthusiasm for travel like no other book had up until then. Though it hasn’t held up over time, I love it for the ideas and the worlds it inspired me to see.
@@ -822,15 +822,15 @@ In stark contrast to Video nights this book showcases the other side of travel a
 
 ###Suramya Munshi
 1. Siddhartha by Herman Hesse
-2. The Outsider by Albert Camus 
-3. A Space Odyssey by Arthur Clarke 
+2. The Outsider by Albert Camus
+3. A Space Odyssey by Arthur Clarke
 4. Into the Wild by Jon Krakauer
 5. The Lovely Bones by Alice Sebold
 6. Anthem by Ayn Rand
 7. Crime and Punishment by Fyodor Dostoyevsky
-8. The Great Gatsby by F.  Scott Fitzgerald 
+8. The Great Gatsby by F.  Scott Fitzgerald
 9. Walden and Civil Disobedience by Henry David Thoreau
-10. Waiting for the Mahatma by RK Narayan 
+10. Waiting for the Mahatma by RK Narayan
 
 ###Swagat Yadav
 1. Inspite of the Gods - Edward Luce
@@ -851,14 +851,14 @@ In stark contrast to Video nights this book showcases the other side of travel a
 4. The Book Thief by Markus Zusak
 5. Jaya by Devdutt Pattanaik
 6. 1984 by George Orwell
-7. Animal Farm by George Orwell 
-8. The Kite Runner by Khaled Hosseini 
-9. Freakonomics by Steven Levitt 
+7. Animal Farm by George Orwell
+8. The Kite Runner by Khaled Hosseini
+9. Freakonomics by Steven Levitt
 10. The Hitchhiker's Guide To The Galaxy by Douglas Adams
 
 ###Thejesh GN
-1. The Man Who Knew Infinity: A Life of the Genius Ramanujan - Kanigel, Robert 
-2. The Selfish Gene - Dawkins, Richard 
+1. The Man Who Knew Infinity: A Life of the Genius Ramanujan - Kanigel, Robert
+2. The Selfish Gene - Dawkins, Richard
 3. A Beautiful Mind - Nasar, Sylvia
 4. Into the wild - Krakauer, Jon
 5. ಸಂಸ್ಕಾರ - ಅನಂತ ಮೂರ್ತಿ (Samskara - URA )
@@ -883,7 +883,7 @@ In stark contrast to Video nights this book showcases the other side of travel a
 10. The Harry Potter Series - J.K. Rowling
 
 ###Yadu Rajiv
-1. Masters of Doom - David Kushner 
+1. Masters of Doom - David Kushner
 2. Hitchhikers Guide to the Galaxy - Douglas Adams
 3. Metamorphosis - Franz Kafka
 4. Chronicle of a Death Foretold - Gabriel Garcia Marquez
