@@ -1,4 +1,4 @@
-_#73_
+_#79_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -563,6 +563,9 @@ To shrug.”
 7. The guide- rk narayan
 8. I miss my pencil- kara Johnson/ martin bone
 
+###Pranita Khandelwal
+
+
 ###Praveen Kumar
 1. Pilgrim's Progress by John Bunyan
 2. Holy Bible (well, of course you know why)
@@ -767,6 +770,18 @@ Calvin & Hobbes, Bill Watterson
 9. Catcher in the rye
 10. The year without pants
 
+###Sampoorna Biswas
+1. Harry Potter series by JK Rowling (because, HOW CAN IT NOT?)
+2. The Diary of a Young Girl by Anne Frank (the epilogue is the most horrible part of it)
+3. Kite Runner by Khalid Khaled Hosseini
+4. A Thousand Splendid Suns by Khalid Hosseini (I know I could have just mentioned the two together, but this one affected me much much more, and also because this way I don't have to think of more books!) 
+5. Flowers of Algernon by Daniel Keyes (thanks Krishna for recommending that one. It's one of the best books I have read in recent times. Mostly because I've not been reading good books of late )
+6. Mallory Towers, St. Clares, Famous Five, Five Find Outers by Enid Blyton (Especially the ones based in boarding schools. My own school seemed so boring compared to them! There may be one or two more series, but I want to specifically de-mention the Secret Seven, cuz I think when the group size reaches 7, you don't really relate to them any more; you're mostly just trying to remember who is who)
+7. Anne of Green Gables series by LM Montgomery (It was such a beautiful series that I read it all at once, and then never had the heart to read them again, because I didn't want to spoil the magic. If you know what I mean)
+8. The Adventures of Tintin by Herge (I wanted to grow up to be him, at some point in my life)
+9. The Star of Kazan and other books by Iva Ibbotson (this one in particular paints such a dreamy picture of Vienna, that you can't help but get drawn into the book)
+10. Game of Thrones by George RR Martin (I'm still in the middle of the last book)
+
 ###Shashank Kumar
 1. Hitchhiker’s Guide to the Galaxy - Douglas Adams
 2. Neuromancer - William Gibson
@@ -778,6 +793,18 @@ Calvin & Hobbes, Bill Watterson
 8. The Third Eye - Tuesday Lobsang Rampa
 9. Metamorphosis - Franz Kafka
 10. White Fang / Call of the Wild - Jack London
+
+###Shobhit Gupta
+1. 1984 by George Orwell
+2. My Name is Red by Orhan Pamuk
+3. A Tale of Two Cities by Charles Dickens
+4. India after Gandhi by Ramachandran Guha
+5. The Catcher in the Rye by J D Salinger
+6. Tuesdays with Morrie by Mitch Albom
+7. Liar's Poker by Michael Lewis
+8. The Ascent of Money by Niall Ferguson
+9. Mein Kampf by Adolf Hitler
+10. Gone with the Wind by Margaret Mitchell
 
 ###Shreyas Habbu
 1. Ajaya- An Epic of the Kaurava Clan by Anand Neelakantan
@@ -850,6 +877,18 @@ Calvin & Hobbes, Bill Watterson
 9. Lolita by Nabokov
 10. Count of Monte Cristo by Dumas
 11. Lord of the Rings by Tolkein
+
+###Soumya Balasubramanya
+1. My name is Red - Orhan Pamuk
+2. Metropole - Ferenc Karinthy
+3. The Hungry Tide - Amitav Ghosh
+4. The Catcher in the Rye - J.D. Salinger
+5. 100 years of solitude - Gabriel Garcia Marc Màrquez
+6. The Blue Lenses and Other Stories - Daphne du Maurier
+7. Haroun and the Sea of Stories - Salman Rushdie
+8. The Rubaiyat - Omar Khayyam
+9. Kafka on the Shore - Haruki Murakami
+10. Arabian Nights and Days - Maguib Mahfouz
 
 ###Supreeth Srinivasamurthy
 1. Ruskin Bond: Collected Fiction
@@ -929,7 +968,19 @@ In stark contrast to Video nights this book showcases the other side of travel a
 7. The Art Of War - Sun Tzu
 8. The Purple Cow - Seth Godin
 9. P.G. Wodehouse (All of them, really)
-10 .Hitchhiker's Guide To The Galaxy - Douglas Adams
+10. Hitchhiker's Guide To The Galaxy - Douglas Adams
+
+###Swati Dasgupta
+1. The Noddy series by Enid Blyton
+2. Five Find-Outers & Dog series also by Enid Blyton
+3. The Nancy Drew Series by Carolyn Keene
+4. The Perry Mason series by E. S. Gardner
+5. The Mother by Maxim Gorky
+6. 1984 by George Orwell (couldn't sleep for 3 days after reading it)
+7. To kill a Mockingbird by Harper Lee
+8. Hajaar Churashir Maa by Mahashweta Devi
+9. Germinal by Emile Zola
+10. Madame Bovary by Gustave Flaubert
 
 ###Tarin Bansal
 1. The Fountainhead by Ayn Rand
@@ -968,6 +1019,18 @@ In stark contrast to Video nights this book showcases the other side of travel a
 8. The Alchemist - Paulo Coelho
 9. The Godfather - Mario Puzo
 10. The Harry Potter Series - J.K. Rowling
+
+###Varsha Venkataraman
+1. Thief of Time by Terry Pratchett (all of his books, really)
+2. Tess of the D'Urbervilles by Thomas Hardy
+3. His Dark Materials Trilogy by Phillip Pullman
+4. Catch-22 by Joseph Heller
+5. Anne of Green Gables by L.M.Montgomery
+6. The Mill on the Floss by George Eliot
+7. The Hitchhikers Guide to the Galaxy series by Douglas Adams
+8. Atlas Shrugged by Ayn Rand
+9. Jane Eyre by Charlotte Brönte
+10. The Portrait of Dorian Grey by Oscar Wilde
 
 ###Yadu Rajiv
 1. Masters of Doom - David Kushner
