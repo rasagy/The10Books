@@ -1,4 +1,4 @@
-_#67_
+_#73_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -46,6 +46,18 @@ _#67_
 8. Goosebumps - R.L. Stine
 9. Meera in Hindi. - from Ramakrishna mission
 10. The Picture of Dorian Gray - Oscar Wilde
+
+###Aditi Ahuja
+1. Lord of the Flies - William Golding
+2. Animal Farm - George Orwell
+3. The Harry Potter Series
+4. The Art of Looking Sideways - Alan Fletcher
+5. The BFG - Roald Dahl
+6. Love in the Time of Cholera - Gabriel García Márquez
+7. Triveni - Gulzar
+8. Blankets - Craig Thompson
+9. The Curious Incident of the Dog in the Night-Time - Mark Haddon
+10. Don Quixote - Miguel de Cervantes
 
 ###Aditya Mathur
 1. Uncle Tom's Cabin by Harriet Beecher Stowe
@@ -103,6 +115,18 @@ _#67_
 7. Market Wizards series - Jack Schwager
 8. Fooled by Randomness - Nassim Nicholas Taleb
 9. The Invisible Hands/Inside the house of Money - Steven Drobny
+
+###Anahita Monga
+1. Harry Potter Series - J.K. Rowling
+2. Angels and Demons - Dan Brown
+3. Morning, Noon, and Night - Sidney Sheldon (actually all books by Sidney Sheldon)
+4. Sons of Fortune - Jeffrey Archer
+5. The Namesake - Jhumpa Lahiri
+6. Outliers - Malcolm Gladwell
+7. Shantaram - Gregory David Roberts 
+8. Gone with the Wind - Margaret Mitchell
+9. The Diary of a Young Girl - Anne Frank
+10. A Suitable Boy - Vikram Seth
 
 ###Anubhav Kapoor
 1. Atlas Shrugged by Ayn Rand: This book made me look back at whole of my life, each event and every choice that I made was put to test
@@ -201,6 +225,22 @@ _#67_
 9. Lord of the flies - William Golding
 10. The night train at Deoli and other stories - Ruskin Bond
 
+###Dharmesh Ba
+1. Sophies World - Jostien Gaarder ‪#‎Philosophy‬
+2. Telle Tale Brain - V.S Ramachandran ‪#‎Nueroscience‬
+3. The turning Point - Fritjof Capra ‪#‎IdeasOfScience‬&Society
+4. Design of Everyday Things - Don Norman ‪#‎Design‬
+5. The One you cannot Have - Preety Shenoy ‪#‎RomanceFiction‬
+6. Medium is the Massage - Marshall Mc Luhan ‪#‎MediaTheory‬
+7. Animal Farm - George Orewell ‪#‎SatireFiction‬
+8. Jaya - Devdutt Pattnaik ‪#‎Mythology‬
+9. Thinking in Systems - Donella Meadows ‪#‎SystemThinking‬
+10. Whats mine is yours - Racheal Botsman ‪#‎CollaborativeConsumption‬
+11. Krishna - The man and his philosophy - Osho #Philosophy
+12. System of Objects - Jean Baudrillard ‪#‎Consumerism‬
+13. Language of New Media - Lev Manovich ‪#‎NewMedia‬
+14. Metaphors we live by - George Lakoff ‪#‎Anthropology‬
+
 ###Disha Gujar
 1. Little Women - Louisa May Alcott
 2. Heidi - Johanna Sypri
@@ -237,6 +277,18 @@ _#67_
 9. The Desert Spear - Peter V. Brett
 10. A Song of Ice and Fire Series - George R.R. Martin
 11. Harry Potter Series - J.K. Rowling
+
+###Gaurav Ahuja
+1. 1984 - George Orwell
+2. Lord of the Rings - J.R.R. Tolkien
+3. Harry Potter and The Philosopher's Stone - J.K. Rowling
+4. The Firm - John Grisham
+5. Kane And Abel - Jeffrey Archer
+6. Eragon - Christopher Paolini
+7. A Song of Ice and Fire - George RR Martin
+8. The Hound of Baskerville - Sir Arthur Conan Doyle
+9. The Famous Five Novels - Enid Blyton
+10. The Hardy boys - Franklin W. Dixon
 
 ###Gursartaj Singh Nijjar
 1. The Enchanted Wood - Enid Blyton (very vividly remember the forest)
@@ -313,6 +365,17 @@ To shrug.”
 8. Far from the madding crowd by Thomas Hardy - Again something I nicked from my mom's collection. The visual imagery is so strong here, you actually feel like you know what rural England was like.
 9. And then there were none by Agatha Christie - The first one that came to my mind when I thought of her. No offence meant to Miss Marple or Mr Poirot, who made trips to the library fun and frequent in school.
 10. Slaughterhouse 5 -"there is nothing intelligent to say about a massacre." Nuff said.
+
+###Jay Dutta
+1. Those Days (Shei Somay) & First Light (Prothom Alo, the sequel) - Sunil Gangopadhyay
+2. 100 Years of Solitude - everyone knows who 
+3. The Snow Leopard by Peter Matthiessen (thanks Shiva for introducing me to the man and his writings)
+4. A Short Walk Along the Hindu Kush by Eric Newby
+5. The Razor's Edge by Somerset Maugham
+6. How Will You Measure Your Life by Clayton Christensen
+7. The Life of Pi - Yann Martell
+8. Open - Andre Agassi
+9. The World of Psmith (The Psmith Omnibus) by Wodehouse
 
 ###Karan Rajiv Gaikwad
 1. Goosebumps (R.L. Stine)
@@ -572,6 +635,18 @@ To shrug.”
 8. Striking Back - Aaron J. Klein (About Munich Massacre, 1972 and Israel's steps after that)
 9. And then there were none - Agatha Christie (I am sure I have read more than 20-25 of hers while I was in 7 or 8th grade)
 10. 4:50 from Paddington - Agatha Christie
+
+###Rameez Mohamed
+1. Childhood's End - Arthur C Clarke
+2. Gravity's Rainbow - Thomas Pynchon
+3. For Whom the Bell Tolls - Ernest Hemingway
+4. One Hundred Years of Solitude - Gabriel Garcia Marquez
+5. The Kingkiller Chronicles - Patrick Rothfuss
+6. Hard to Be a God - Strugatsky brothers (People looking to send me gifts, more of Strugatsky brothers is what I want.)
+7. Avenger, and also The Day of the Jackal - Frederick Forsyth
+8. Angela's Ashes - Franc McCourt
+9. Heart of Darkness - Joseph Conrad
+10. Fall of Giants - Ken Follett
 
 ###Ramya Hegde
 1. Harry Potter (all books) by J.K.Rowling
