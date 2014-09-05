@@ -1,4 +1,4 @@
-_#66_
+_#67_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -46,6 +46,18 @@ _#66_
 8. Goosebumps - R.L. Stine
 9. Meera in Hindi. - from Ramakrishna mission
 10. The Picture of Dorian Gray - Oscar Wilde
+
+###Aditya Mathur
+1. Uncle Tom's Cabin by Harriet Beecher Stowe
+2. Murder on the Orient Express and other Poirot series by Agatha Christie
+3. 1984 - George Orwell and Animal Farm by George Orwell
+4. The Fountain Head by Ayn Rand 
+5. The Great Indian Novel by Shashi Tharoor
+6. Not a Penny More, Not a Penny Less and several others by Jeffrey Archer
+7. The Da Vinci Code by Dan Brown
+8. How will you measure your life by Clayton Christensen
+9. Catcher in the rye by J.D. Salinger
+10. Comics - Tintin, Calvin and Hobbes, Garfield
 
 ###Adya Jha
 1. The Kite Runner - Khaled Hosseini
@@ -419,7 +431,7 @@ To shrug.”
 3. The Emperor of all Maladies by Siddartha Mukherjee- for being so much more than just a biopgraphy of cancer
 4. The Goldfinch by Donna Tart- for filling the vaccum caused after reading book no 5 and questiong the conventional line between right and wrong.
 5. Shantaram by Gregory Davis Roberts- for showing that beauty lies in the eyes of the beholder
-6. The kite runner by Khaled Hossieni- for being the one of the most heartbreaking stories about loyalty and frienship
+6. The kite runner by Khaled Hosseini- for being the one of the most heartbreaking stories about loyalty and frienship
 7. Animal farm by George Orwell- a great political sattire
 8. Have a little faith by Mitch Albom - for showing the humane side of religion and faith
 9. Harry Potter by J.K.Rowling- for teaching that the real magic lies with people
