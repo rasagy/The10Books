@@ -413,6 +413,19 @@ To shrug.”
 9. Nightfall
 10. The Fortune at the Bottom of the Pyramid
 
+###Kinnari Parikh
+1. The Fountainhead/ Atlas Shrugged by Ayn Rand : I read them in my 10th class so you can only imagine the impact Howard Roark/John Galt could have on my mind
+2. The Inscrutable Americans by Anurag Mathur : My love for stories started developing here
+3. Chankya's chant / Krishna Key by Ashwin Sanghi : Fiction meets mythology meets history...its just wow!
+4. The Accidental Apprentice by Vikas Swarup : This 'Slumdog Millionaire writer has an amzing knack to engage you in simple stories
+5. Napoleon by Emil Ludwig : You need to read this to experience it
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams : What do I say about this one? Its not a book...its a trip
+7. What Mad Universe by Fredric Brown: His most famous short stories, "Arena", was used as the basis for the episode of the same name in the original series of Star Trek, which made me pick this one...and absolutely no regrets here!
+8. The Elements of Typographic Style by typographer and poet Robert Bringhurst : This one opened doors to the world of type for me 
+9. Tuesdays with Morrie by Mitch Albom: Its always moves me to no limit!
+10. The Time Traveler's Wife by Audrey Niffenegger: again another experience in itself!
+11. Jaya by Devdutt Pattnaik : Sorry I took the liberty of adding another one... Just couldn't resist!
+
 ###Kinshuk Kar
 1. Lean Startup
 2. Who moved my Cheese
@@ -562,8 +575,6 @@ To shrug.”
 6. History of the Sikhs- khushwant singh
 7. The guide- rk narayan
 8. I miss my pencil- kara Johnson/ martin bone
-
-###Pranita Khandelwal
 
 
 ###Praveen Kumar
