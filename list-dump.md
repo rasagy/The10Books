@@ -164,6 +164,18 @@ _#79_
 9. Currency Wars: The Making of the Next Global Crisis – James Rickards
 10. The One Minute Manager - Kenneth H. Blanchard
 
+###Arnab Chakravarty
+1. The Snow Queen: Hans Christian Andersen. The most important book in my life.
+2. Foundation: Isaac Asimov. The greatest sci-fi series ever. It's so good that Hollywood still doesn't know how to make a movie on it.
+3. Timeline: Michael Crichton. Crichton started my fascination with all things technology and its unintended consequences which ended up as a leitmotif of my life.
+4. Hitchhiker's Guide to Galaxy: Douglas Adams. Marvin is my personal hero.
+5. The Odyssey and the other Greek Myths: The book which gave me a moral and ethical framework to mold my life around. (While I debated putting up the Mahabharata here, I have to confess there are big parts about it which I still don't understand)
+6. One hundred years of solitude: The gateway to the magic realists which led me through Calvino and ended up at Borges. And I never left.
+7. Watchmen: The greatest superhero graphic novel. If you disagree, you are wrong.
+8. Harry Potter: I grew up with Potter.
+9. Lord of the Rings.
+10. Sherlock Holmes. The only male role model you need.
+
 ###Arvind Iyer
 1. Srimad Bhagavad Gita - Veda Vyasa
 2. The Prospects of Industrial Civilization - Russell
@@ -461,6 +473,8 @@ To shrug.”
 8. The perks of being a wallflower
 9. So Long, and thanks for all the fish
 10. Harry Potter and the Order of the Phoenix
+
+
 
 ###Kruttika Susarla
 1. Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
