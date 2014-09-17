@@ -1,4 +1,4 @@
-_#79_
+_#83_
 
 ###Aarthi M Sundaram
 1. Quantum: Einstein, Bohr, and the Great Debate About the Nature of Reality (Manjith Kumar)
@@ -105,17 +105,6 @@ _#79_
 9. Freakonomics - Steven Levitt, Stephen Dubner
 10. Liespotting - Pamela Meyer
 
-###Anmol Sharma
-1. Bhagvad Gita As it is
-2. Tao of Physics - Fritjof Capra
-3. Godel, Escher, Bach - Douglas Hofstader
-4. Beyond Good and Evil/Thus spoke Zarathustra - Friedrich Nietzsche
-5. Autobiography of a spiritually incorrect mystic/From sex to superconsciousness/The book of secrets - Osho
-6. Animal Spirits - George Akerlof and Robert Shiller
-7. Market Wizards series - Jack Schwager
-8. Fooled by Randomness - Nassim Nicholas Taleb
-9. The Invisible Hands/Inside the house of Money - Steven Drobny
-
 ###Anahita Monga
 1. Harry Potter Series - J.K. Rowling
 2. Angels and Demons - Dan Brown
@@ -127,6 +116,17 @@ _#79_
 8. Gone with the Wind - Margaret Mitchell
 9. The Diary of a Young Girl - Anne Frank
 10. A Suitable Boy - Vikram Seth
+
+###Anmol Sharma
+1. Bhagvad Gita As it is
+2. Tao of Physics - Fritjof Capra
+3. Godel, Escher, Bach - Douglas Hofstader
+4. Beyond Good and Evil/Thus spoke Zarathustra - Friedrich Nietzsche
+5. Autobiography of a spiritually incorrect mystic/From sex to superconsciousness/The book of secrets - Osho
+6. Animal Spirits - George Akerlof and Robert Shiller
+7. Market Wizards series - Jack Schwager
+8. Fooled by Randomness - Nassim Nicholas Taleb
+9. The Invisible Hands/Inside the house of Money - Steven Drobny
 
 ###Anubhav Kapoor
 1. Atlas Shrugged by Ayn Rand: This book made me look back at whole of my life, each event and every choice that I made was put to test
@@ -151,6 +151,24 @@ _#79_
 8. Pride and Prejudice by Jane Austen
 9. Afghan by Frederick Forsyth
 10. Not a Penny More, Not a Penny Less by Jeffery Archer
+
+###Anuraag Gupta
+1. Chaos - James Gleick [http://goo.gl/ZRtuUn]
+This changed the way I look at everything around me. Full of amazing ideas, which will stay with you forever.
+2. Do Androids Dream of Electric Sheep - Philip K. Dick[http://goo.gl/ibrK9L]
+The book behind the movie 'Bladerunner'. Like always, much better than the movie. One of my favorite science fiction books.
+3. The Story of Philosophy - Will Durant [http://goo.gl/tHW8bq]
+You can never say that you have 'finished' reading this book. I keep re-reading this from now and then, and there is always something new which comes up.
+4.Man's Search for Meaning - Victor E Frankl [http://goo.gl/PViIHn]
+A classic, which introduced Logotherapy to me. A short book which can be read in a day. As a follow up, you can read " The Will to Meaning: Foundations and Applications of Logotherapy" as well.
+5.Invisible Landscape - Terrance McKenna [http://goo.gl/nrbxil]
+This is one of the earliest books which McKenna wrote. Very Trippy. Imagine the blabbering of someone really smart and constantly on hallucinogens.
+6. Zen and the Art of Motorcycle Maintenance - Robert Pirsig [http://goo.gl/ZIxS2k]
+I think this book is hyped up way too much. But it's still a very good read.
+7. Atlas Shrugged - Ayn Rand [http://goo.gl/qcD1gE]
+Well, If I read this book now, I probably would raise my arms in protest at half the ideas and things showcased here. But if you keep the judgement at bay, it is a damn good read.
+8. Godel, Escher, Bach (GEB) - Douglas R. Hofstadter [http://goo.gl/ovkE85]
+Currently reading this one. Very difficult to describe what all this book is about. It is about biology, psychology, artificial intelligence, physics, music, visual art ,... and the 'strange loops' which exists in all these fields. Do read this one.
 
 ###Arjit Aggarwal
 1. The Kite Runner, Khaled Hosseini
@@ -474,7 +492,31 @@ To shrug.”
 9. So Long, and thanks for all the fish
 10. Harry Potter and the Order of the Phoenix
 
-
+###Krushidhar Lekkala
+1. Shantaram by Gregory David Roberts
+I would have possibly never read this book had my brother Jeevan not recommended it. I lamented its huge size when I started it, but as the story moved, I wished it was longer. Some lines still give me goose bumps.
+2. Persepolis by Marjane Satrapi
+How often would an unknown passenger in a packed bus walk to you to say ‘This is a good book!’ ? It happened to me with Persepolis.
+I ordered the book because of a simple coincidence — it was about Iran from the same time my uncle was there. War, told from the perspective of a young girl in her adolescent years, this is one book I recommend everyone.
+3. The Design of Everyday Things by Donald Norman
+May be, I should not add this here, because I technically did not complete reading this book. I started it at the same time I got into my first formal design assignment, and a lot of what I’ve come to believe Design is can be attributed back to Norman.
+4. Sherlock Holmes: The Hound of the Baskervilles by Arthur Conan Doyle
+At school, I always used to finish my English Supplementaries in the first few weeks. However, with this book, it was a little different. I stopped reading it midway because I knew the end was imminent and I wanted to stop myself from knowing it as long as I can. First love.
+5. Steve Jobs by Walter Isaacson
+This book made me understand that human beings are flawed no matter how great and accomplished they are. Probably, that is what defines us.
+6. The Everything Store by Brad Stone
+Should thank Naveen for letting me borrow his Kindle on my last visit home. This book helped me understand why a close friend never answers calls. On a more serious note, this is a wonderful read about how Amazon, one of the greatest of companies of today was built.
+7. Predictably Irrational by Dan Ariely
+Don’t remember how I came across the works of this Duke professor. A fun read for anyone who wants to know about Behavioural Economics or understand the psychology of human decision making.
+8. Its Not About the Bike by Lance Armstrong
+I read this book long before Lance admitted cheating to Oprah. I bought into the story so well that I believed in him even when the USADA stripped him off his titles.
+After he came out, I surprisingly did not feel cheated. I just wanted to believe in the lie, because I felt it served a purpose much higher than the person himself.
+9. Insanely Simple by Ken Segall
+Written by a guy who directly worked with Jobs for Chiat\Day, this was an easy read. This book gave me a perspective about what makes Apple Apple more than Jobs’ biography.
+10. 2 States by Chetan Bhagat
+Some people will judge me for this, but I really enjoyed reading this book. The only book I completed in a single stretch, I read this in a train traveling from Chennai to Hyderabad a month before my brother’s wedding.
+11. Honorary mention: Treasure Island by RL Stevenson
+This was the book that started it all. I still remember walking to Fr. John’s office at Don Bosco to borrow this. Circa 1997.
 
 ###Kruttika Susarla
 1. Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
@@ -902,6 +944,20 @@ Calvin & Hobbes, Bill Watterson
 9. Lolita by Nabokov
 10. Count of Monte Cristo by Dumas
 11. Lord of the Rings by Tolkein
+
+###Snehal Shinde
+1. The God of Small Things - Arundhati Roy ( there is no way i am forgetting this book.ever.)
+2. The White Tiger- Aravind Adiga.
+3. The Inheritance of Loss- kiran desai.
+4. State of Fear- Michael crichton. ( The only Sci-fi i read and liked  )
+5. The Godfather and The Last Don - Mario puzo.
+6. Sense and Sensibility- Jane austen. ( it is difficult to decide which one is my favourite jane austen book, like i love almost all of 'em  ) 
+7. The Art of looking sideways-by Alan Fletcher ( 500 pages full of useless information, random scraps, meaningless quotations and short poems, written and layouted BEAUTIFULLY !! ) 
+8. Mrutunjay- by Shivaji Sawant 
+9. Diary of a Wimpy Kid (book) - These books remind you of your childhood days!
+10. Memoirs of a Geisha - Love this book! and movie as well.
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Winner Stands Alone & Veronica Decides to Die by Paulo Coelho.
 
 ###Soumya Balasubramanya
 1. My name is Red - Orhan Pamuk
